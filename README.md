@@ -149,7 +149,7 @@ Generate → Clean → Store (PostgreSQL) → Feed to ML Engine → Recommend
 ---
 
 ## 📂 Project Structure
-QWIPO/
+```QWIPO/
 │
 ├── Engine_2/                      # (Possibly backend or model engine directory)
 │
@@ -189,5 +189,5 @@ QWIPO/
 │   └── vite.config.ts             # Vite configuration file
 │
 ├── package.json                   # (Possibly for root workspace)
-└── package-lock.json              # Root dependency lock file
+└── package-lock.json              # Root dependency lock file```
 
