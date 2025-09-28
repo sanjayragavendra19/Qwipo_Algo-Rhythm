@@ -196,7 +196,7 @@ Generate → Clean → Store (PostgreSQL) → Feed to ML Engine → Recommend
 ### 1. Clone Repository
 ```
 git clone https://github.com/<your-username>/Qwipo_Algo-Rhythm.git
-cd SmartReco
+cd Qwipo_Algo-Rhythm
 ```
 2. Backend Setup (FastAPI)
 ```
