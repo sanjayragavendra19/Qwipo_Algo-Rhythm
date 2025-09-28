@@ -4,13 +4,13 @@ AI-driven system that enhances the retailer experience on B2B platforms by provi
 
 ---
 
-## 🧩 Problem Statement Reference
+##  Problem Statement Reference
 
 *Problem Statement ID:* HACXPB001  
 *Problem Statement:* Personalized Product Recommendations for Enhanced Retailer Experience  
 *Company:* Qwipo (B2B Retail Platform)
 
-### 🎯 Reason to Choose
+###  Reason to Choose
 Retailers and vendors face inefficiencies in product distribution and demand forecasting, leading to overstocking, stockouts, and missed sales opportunities.  
 By addressing this, we aim to:
 - Improve *stock optimization*  
@@ -21,21 +21,21 @@ This problem has *strong real-world relevance, high **scalability, and allows th
 
 ---
 
-## 💡 Solution Overview
+## Solution Overview
 
 ### Proposed Approach
 An *AI-powered recommendation engine* that uses sales patterns, peer buying behavior, and product metadata to suggest optimal products for retailers while giving vendors visibility into market demand.
 
 ### Key Features / Modules
-- 🛍 *Retailer Dashboard* – Personalized product recommendations and demand forecasts.  
-- 📦 *Vendor Dashboard* – Retailer demand analytics and distribution insights.  
-- 🤖 *Recommendation Engine* – Collaborative + Content-based filtering for accurate suggestions.  
-- 🔍 *Explainability Layer* – Justifications such as “popular among peers” or “often bought together.”  
-- 📊 *Data Management Module* – Synthetic data generation, cleaning, and preprocessing pipeline.  
+-  *Retailer Dashboard* – Personalized product recommendations and demand forecasts.  
+-  *Vendor Dashboard* – Retailer demand analytics and distribution insights.  
+-  *Recommendation Engine* – Collaborative + Content-based filtering for accurate suggestions.  
+-  *Explainability Layer* – Justifications such as “popular among peers” or “often bought together.”  
+-  *Data Management Module* – Synthetic data generation, cleaning, and preprocessing pipeline.  
 
 ---
 
-## 🧱 System Architecture
+##  System Architecture
 
 ### Data Flow
 ![WhatsApp Image 2025-09-28 at 15 45 56_286c7830](https://github.com/user-attachments/assets/5536dcf6-1a22-4f7f-9ebc-db8ebdf2c3da)
@@ -48,7 +48,7 @@ An *AI-powered recommendation engine* that uses sales patterns, peer buying beha
 
 ---
 
-## ⚙ Technology Stack
+##  Technology Stack
 
 *Backend:*  
 - FastAPI / Flask (Python) – API services  
@@ -73,7 +73,7 @@ An *AI-powered recommendation engine* that uses sales patterns, peer buying beha
 
 ---
 
-## 🧮 Algorithms & Models
+##  Algorithms & Models
 
 ### Chosen Algorithms
 - *Collaborative Filtering* → learns from peer retailer behavior  
@@ -90,7 +90,7 @@ Combining both ensures *relevant, balanced, and diverse* recommendations.
 
 ---
 
-## 🗃 Data Handling
+##  Data Handling
 
 *Data Sources:*  
 - Synthetic data generated using Faker (retailers, products, orders)  
@@ -106,7 +106,7 @@ Generate → Clean → Store (PostgreSQL) → Feed to ML Engine → Recommend
 
 ---
 
-## 🚀 Implementation Plan
+##  Implementation Plan
 
 | Phase | Description |
 |-------|--------------|
@@ -118,7 +118,7 @@ Generate → Clean → Store (PostgreSQL) → Feed to ML Engine → Recommend
 
 ---
 
-## ⚡ Performance & Validation
+##  Performance & Validation
 
 *Evaluation Metrics:*
 - Precision@K / Recall@K  
@@ -126,13 +126,13 @@ Generate → Clean → Store (PostgreSQL) → Feed to ML Engine → Recommend
 - Response Time per request  
 
 *Testing Strategy:*
-- ✅ Unit Testing → Individual modules (backend, ML engine)  
-- 🔗 Integration Testing → Frontend–Backend–ML pipeline  
-- 👥 User Acceptance Testing → Validate recommendation accuracy  
+-  Unit Testing → Individual modules (backend, ML engine)  
+-  Integration Testing → Frontend–Backend–ML pipeline  
+-  User Acceptance Testing → Validate recommendation accuracy  
 
 ---
 
-## ☁ Deployment & Scalability
+##  Deployment & Scalability
 
 *Deployment Plan*
 - Backend containerized using *Docker*  
@@ -148,7 +148,7 @@ Generate → Clean → Store (PostgreSQL) → Feed to ML Engine → Recommend
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 ```QWIPO/
 │
 ├── Engine_2/                     
@@ -191,7 +191,7 @@ Generate → Clean → Store (PostgreSQL) → Feed to ML Engine → Recommend
 ├── package.json                   # (Possibly for root workspace)
 └── package-lock.json              # Root dependency lock file
 ```
-## ⚙ Setup Instructions
+##  Setup Instructions
 
 ### 1. Clone Repository
 ```git clone https://github.com/<your-username>/SmartReco.git
@@ -229,7 +229,6 @@ Open frontend → Login as Retailer or Vendor
 Retailer views personalized recommendations
 Vendor views product demand insights
 Export data as reports or CSV
-
 Visualize analytics with graphs and charts
 
 🧑‍🤝‍🧑 Team Contributions
