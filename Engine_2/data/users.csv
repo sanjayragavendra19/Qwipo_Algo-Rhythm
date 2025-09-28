@@ -1,0 +1,505 @@
+retailer_id,name,city,region,store_size,primary_category
+1,"Rodriguez, Figueroa and Sanchez",Lake Curtis,North,small,fashion
+2,"Mcclain, Miller and Henderson",North Jefferyhaven,East,small,homecare
+3,"Johnson, Gonzalez and Santos",Robinsonshire,South,large,beverages
+4,Pacheco-Smith,Lake Roberto,Central,small,pet
+5,Moore-Bernard,Curtisfurt,West,small,grocery
+6,Howard LLC,Lindsaymouth,North,small,homecare
+7,"Martinez, Nielsen and Miller",Mariastad,Central,large,grocery
+8,"Lee, Jones and Stanley",Traciebury,Central,small,fashion
+9,James Group,Franciscostad,Central,medium,homecare
+10,Santiago Ltd,New Cynthiaside,West,large,personalcare
+11,"Sanchez, Ford and Nelson",Lake Mark,North,small,fashion
+12,Perez Inc,Richardland,West,medium,personalcare
+13,Gentry PLC,Jasonfort,South,small,stationery
+14,Wilkerson-Day,West Donald,North,small,electronics_accessories
+15,"Hoffman, Baker and Richards",Coxberg,North,medium,stationery
+16,"Snyder, Campos and Callahan",Lake Ernest,Central,medium,grocery
+17,"Henderson, Brown and James",Riceside,West,large,beverages
+18,Frazier Inc,Kaylamouth,West,small,baby
+19,Carter and Sons,Smithview,East,large,pet
+20,"Gill, Romero and Rodriguez",Meaganhaven,East,large,homecare
+21,"Gonzalez, Brooks and Martin",New Mariotown,North,small,health
+22,Hickman LLC,North John,South,medium,beverages
+23,"Arroyo, Miller and Tucker",Port Amandaberg,South,small,electronics_accessories
+24,Keller PLC,West Allison,East,medium,health
+25,"Henderson, Lewis and Ryan",Lake Larry,East,small,stationery
+26,"Santos, Kim and Holmes",East Jeffreymouth,East,small,health
+27,Chapman and Sons,North Chad,East,large,health
+28,"Brown, Jones and Johnson",Chadbury,North,large,health
+29,Caldwell-Lewis,Lake Selena,South,large,fashion
+30,"Johnston, Sanchez and Kennedy",Leeville,South,small,kitchen
+31,"Jordan, Henderson and Owens",Lake Deniseville,West,medium,health
+32,Powell LLC,East Jamesside,Central,small,health
+33,Taylor-White,Wrightland,East,small,homecare
+34,Morton-Chase,North Deniseside,North,medium,electronics_accessories
+35,Novak and Sons,South Todd,East,small,homecare
+36,Hancock Inc,South Aaron,Central,large,stationery
+37,Baker-Bowers,Mitchellside,South,large,kitchen
+38,"Higgins, Moore and Phillips",New Jillton,West,large,kitchen
+39,"Edwards, Williams and Woods",North Susan,South,medium,snacks
+40,York Inc,Lake Michellefurt,South,large,baby
+41,David PLC,New Brooke,Central,medium,fashion
+42,"Miller, Sandoval and Cunningham",Sarahborough,Central,medium,pet
+43,"Moran, Allen and Foster",Stephenland,West,medium,homecare
+44,Ellis PLC,North Amandahaven,South,large,kitchen
+45,Anderson-Bailey,East Mikeburgh,North,small,beverages
+46,Bass-Warner,Lake Lisaport,South,large,snacks
+47,"Garcia, Humphrey and Baker",Lake Angelaview,West,large,beverages
+48,Jacobs-Robbins,Lake Cynthia,West,medium,pet
+49,Wagner-King,North Cynthiaview,West,large,personalcare
+50,Smith and Sons,Evanmouth,Central,small,health
+51,"Thornton, Hoffman and Rodriguez",New Barry,North,large,baby
+52,Aguilar-Hernandez,North Kyle,East,large,stationery
+53,Nolan and Sons,Lake Curtis,North,medium,electronics_accessories
+54,"Henson, Russell and Oliver",East Michelle,South,medium,grocery
+55,Keith Inc,Lake Sandra,East,large,snacks
+56,Pham-Shields,West Erik,Central,small,health
+57,"Rodriguez, Brennan and Garrison",East Lisa,East,large,baby
+58,Bailey-Hoover,East Andrew,Central,small,snacks
+59,Ross LLC,Port Joshuahaven,East,small,baby
+60,Frazier-Anthony,Sheilaville,Central,small,pet
+61,White-Estes,Benjaminchester,East,medium,grocery
+62,Chandler-Edwards,South Rachelborough,North,medium,personalcare
+63,Williams-Graham,West Ryan,South,small,homecare
+64,"Mccall, Hanson and Alvarado",Lake Rachelhaven,Central,small,beverages
+65,Estrada-Nguyen,Angelaborough,West,small,baby
+66,Ortega-Gray,New Ashley,South,small,health
+67,Kelley-Smith,Jasonshire,West,large,snacks
+68,"Pena, Marshall and Ramos",New Thomas,East,large,pet
+69,"Jackson, Miller and Robertson",Clarencebury,West,small,baby
+70,"Collins, Drake and Hernandez",East Traceyland,South,large,personalcare
+71,Perry-Soto,Lake Heather,West,large,health
+72,Ross-Hernandez,Port Michelleville,East,medium,baby
+73,Robinson-Brock,Williamsbury,West,small,homecare
+74,Bryant Group,Stephaniemouth,South,small,stationery
+75,"Briggs, Mcclain and Simmons",Merrittfort,North,large,baby
+76,Green-Wright,Katiehaven,South,large,homecare
+77,Sims-Hill,Lake Justinview,North,small,fashion
+78,Flores-Fernandez,East Jesse,North,small,beverages
+79,"Hernandez, Lewis and Perry",Amychester,North,medium,beverages
+80,Clark Group,Steinshire,Central,small,personalcare
+81,"Smith, Gilmore and Johnston",Smithstad,West,small,baby
+82,Molina-Castaneda,Medinaside,South,large,pet
+83,"Hurst, Freeman and Nelson",Johnsonmouth,Central,medium,homecare
+84,"Shelton, Powell and Martin",Calhounside,West,medium,homecare
+85,Meadows PLC,North Dawnberg,North,small,health
+86,White-Green,Jasonmouth,West,medium,electronics_accessories
+87,Juarez-Gray,Kingland,West,medium,fashion
+88,Smith-Ryan,Jeffreyland,North,large,health
+89,"Williams, Johnson and Wright",New Elijahberg,North,small,electronics_accessories
+90,Caldwell-Elliott,South Holly,East,small,homecare
+91,Jackson-Lawson,Port Loriport,South,small,baby
+92,Lane LLC,Sandersborough,West,small,electronics_accessories
+93,Vargas Ltd,North Heidi,South,medium,kitchen
+94,Jefferson-Burke,Port Tonyaton,South,small,kitchen
+95,Patel-Stanley,New Deborahtown,Central,small,grocery
+96,Short-Garcia,Cynthiamouth,Central,small,beverages
+97,"Hernandez, Thompson and Boyd",Christinaside,South,small,electronics_accessories
+98,Marshall-Petersen,Marcusbury,West,medium,homecare
+99,Ramirez Group,Port Steven,West,small,snacks
+100,"Barnett, Rogers and Snyder",Hunterborough,West,small,electronics_accessories
+101,Salinas-Peterson,Angelahaven,East,medium,personalcare
+102,Miller Ltd,Freemanbury,West,large,fashion
+103,"Alvarez, Joseph and West",North Kellyfurt,Central,large,fashion
+104,"Sanchez, Beck and Wood",Ronaldside,West,small,homecare
+105,Bell-Chavez,Johnville,East,small,grocery
+106,"Lee, Wilson and Herrera",East Javier,Central,large,baby
+107,Hill-Lawrence,Tinaborough,North,large,stationery
+108,Perez-White,Lake Amandaview,North,small,pet
+109,Mccann PLC,Heidiberg,West,large,baby
+110,"Oneill, Henry and Salas",Taylormouth,South,small,baby
+111,Lopez-Williams,Wilsonland,North,small,beverages
+112,Vasquez-Ray,East Edwardshire,Central,small,health
+113,Miller-Wright,Obrienbury,South,medium,beverages
+114,"James, Kerr and Evans",Torreston,Central,small,pet
+115,"Choi, Garcia and Farmer",West Donna,Central,small,pet
+116,Allen PLC,East Aaronmouth,North,medium,health
+117,"Wheeler, Carter and Hall",Jacquelinemouth,Central,large,baby
+118,Mcdaniel LLC,South Danny,East,medium,homecare
+119,Holland LLC,North Brian,East,small,personalcare
+120,Larson-Holloway,Scottmouth,West,small,health
+121,"Torres, Powell and Nelson",Kimton,East,medium,stationery
+122,Navarro-Munoz,North Jeremyshire,North,small,kitchen
+123,"Sampson, Key and Chambers",Barbaraburgh,Central,large,beverages
+124,Stone-Ramos,Howardshire,North,large,homecare
+125,Walters-Vasquez,South Michaelmouth,Central,medium,snacks
+126,Santiago-Hodge,Robertfort,East,small,homecare
+127,Bates-Morales,South Christopherview,East,medium,snacks
+128,Wilson-Barton,Lake Mollymouth,West,large,fashion
+129,Brown-Stone,Garrettton,East,large,health
+130,Adams and Sons,Samuelfort,Central,small,health
+131,Johnson Ltd,Lake Eric,Central,medium,health
+132,"Smith, Russell and Walker",South Staceyberg,North,small,personalcare
+133,Cantu-Carter,Robertfort,North,small,fashion
+134,Sanchez-Arnold,Leehaven,Central,small,personalcare
+135,"Suarez, Shields and Hill",Morganhaven,East,large,homecare
+136,Hoover-Campbell,Maryshire,East,small,health
+137,"Burns, Hernandez and Ryan",Martinside,East,large,kitchen
+138,Gibson-Morris,Lake John,East,small,beverages
+139,Hall-Rowe,West Juliefurt,West,medium,grocery
+140,Mcneil-Sparks,South Tammie,North,medium,snacks
+141,Shaw PLC,Mollymouth,East,small,fashion
+142,Fox Group,Lake Douglasberg,West,large,fashion
+143,Harrison LLC,Cindyfurt,West,large,grocery
+144,"Miller, Murphy and Craig",Finleyfort,North,small,fashion
+145,"Johnson, Jones and Welch",Wendyland,South,large,grocery
+146,Good-Hodges,South Garrettport,East,large,baby
+147,Williams Inc,Michaelchester,South,medium,snacks
+148,Sanchez Group,East Gregory,North,medium,stationery
+149,"Pitts, Harvey and Allen",East Steven,North,medium,homecare
+150,Stevens-Estrada,Santanaside,South,large,beverages
+151,Jones LLC,Daniellechester,East,large,electronics_accessories
+152,"Wright, Bruce and Gonzalez",Castanedaville,Central,large,snacks
+153,James LLC,Victoriaport,South,small,snacks
+154,Spence Ltd,Hillshire,West,small,snacks
+155,"Osborne, Beltran and Lozano",Wallport,East,medium,health
+156,Lawson LLC,Lake James,South,medium,snacks
+157,Byrd-Le,Lake Colton,North,medium,grocery
+158,"Lucas, Parker and Alexander",Jessicaland,West,small,homecare
+159,Murphy-Perry,East Kristin,West,medium,personalcare
+160,Schmidt-Mcintyre,West Robin,South,small,grocery
+161,Coffey-Phillips,Lindamouth,South,medium,stationery
+162,Taylor and Sons,Coffeyside,East,small,personalcare
+163,Davis-Foster,Amandamouth,East,large,baby
+164,Chambers-Chambers,Carsonstad,West,large,baby
+165,Leonard Group,New Nicoleside,East,small,beverages
+166,Herman-Walker,Lake Madisonport,East,small,pet
+167,"Ortiz, Taylor and Shah",Wendyville,East,small,beverages
+168,Young PLC,South Shawn,Central,medium,stationery
+169,"Avery, Horton and Fernandez",South Diana,East,medium,pet
+170,Gilbert-Crosby,Antoniostad,Central,small,electronics_accessories
+171,Ramos and Sons,Corystad,Central,small,personalcare
+172,"Winters, Newman and Brown",Jamesville,North,large,electronics_accessories
+173,Davis-Lewis,North Kristinbury,North,large,baby
+174,Buchanan and Sons,Port Kathyborough,South,medium,electronics_accessories
+175,"Robinson, Kane and Murphy",Port Rachel,North,large,stationery
+176,Ramirez and Sons,New John,Central,medium,health
+177,Rodriguez Inc,North Michael,North,large,personalcare
+178,Chapman Inc,West Brian,Central,medium,health
+179,"Fisher, Wilson and Brown",Stricklandhaven,West,medium,electronics_accessories
+180,"Rodriguez, Gordon and Dougherty",Lake Kristahaven,East,large,snacks
+181,Ellis-Maynard,South Melaniechester,South,medium,health
+182,"Rodriguez, Joseph and Wallace",West Charleneland,West,large,fashion
+183,Hill Ltd,Oscarhaven,South,large,pet
+184,Chavez-Jacobs,Port Jacquelineside,East,medium,baby
+185,"Glenn, Jordan and Beasley",Morganmouth,North,medium,personalcare
+186,Perry-Davis,Edwardsview,South,medium,pet
+187,Mckay-Mcdaniel,Jonesland,Central,large,stationery
+188,Reynolds Ltd,Lisaside,West,medium,kitchen
+189,Willis PLC,Elizabethchester,South,large,kitchen
+190,Russo-Pugh,Parrishton,South,large,beverages
+191,Burke-Bell,East Diane,East,large,health
+192,Boone LLC,Dannyview,Central,medium,beverages
+193,"Perez, Patterson and Hoffman",New Sarahview,South,large,personalcare
+194,White Ltd,Sandrastad,South,small,snacks
+195,White and Sons,Jonestown,North,small,homecare
+196,Reese and Sons,Barnesmouth,West,large,beverages
+197,Wood Ltd,Kimberlyshire,West,medium,health
+198,"Miller, Williams and Moore",Lake Christophermouth,Central,small,fashion
+199,"Coleman, Lawson and Perry",Port William,West,medium,electronics_accessories
+200,Jordan-Campbell,Roseport,South,small,health
+201,Walker PLC,North Jamesborough,North,small,electronics_accessories
+202,Duran LLC,Davidfort,South,small,fashion
+203,"Jordan, Anderson and Patel",New Angelica,Central,medium,grocery
+204,"Drake, Jones and Hensley",South Andrewland,Central,small,beverages
+205,Johnston-Berry,Robertsfurt,West,small,kitchen
+206,Burch and Sons,Collierstad,Central,large,pet
+207,Kim Inc,South Brianna,East,medium,pet
+208,"Miller, Harrell and Reese",West Kimberly,Central,medium,baby
+209,Dixon Inc,Port Michael,West,small,fashion
+210,"Mullen, Brewer and Hernandez",East Jonathanburgh,West,medium,personalcare
+211,"Hernandez, Malone and Jones",Marshallshire,South,large,personalcare
+212,"Cole, Glass and Cunningham",Michellemouth,Central,medium,health
+213,Gonzales Group,Welchview,South,medium,kitchen
+214,"Brown, Romero and Collins",Johnsonstad,North,large,personalcare
+215,Jones-Lin,New Brookefurt,South,medium,stationery
+216,Carpenter-Best,South Reginashire,East,large,beverages
+217,"Lopez, Jacobs and Mason",South Dalemouth,South,small,homecare
+218,"Miller, Lucas and Williams",Ritterhaven,West,large,snacks
+219,"Bishop, Cox and Hardin",Ortizmouth,South,small,electronics_accessories
+220,"Harper, Mccormick and Holland",West Codyfurt,West,medium,baby
+221,King-York,West Christopher,West,medium,grocery
+222,"Thomas, Bailey and Ponce",Andersonland,South,medium,electronics_accessories
+223,Hansen-Schneider,Lisahaven,Central,large,grocery
+224,Lucas Group,Andrewport,Central,medium,kitchen
+225,Bean LLC,Leeberg,North,medium,personalcare
+226,Jones Inc,Lake Matthewberg,West,medium,baby
+227,"Bennett, Martin and Guerra",Lake Samuel,Central,large,homecare
+228,Diaz-Ball,Bishopmouth,West,small,personalcare
+229,Ferguson LLC,Mckeeborough,West,medium,grocery
+230,Gregory-Hudson,Murrayport,West,medium,health
+231,Shaw-Barnes,Port James,West,large,snacks
+232,"Taylor, Wright and Davidson",Angelaville,West,small,pet
+233,"Singleton, Rosales and Mitchell",West Shannon,Central,small,electronics_accessories
+234,"Hernandez, Kim and Potts",Port Shannon,Central,large,health
+235,Arias-Perry,Shawbury,North,small,health
+236,Vang-Brooks,West Sarahmouth,West,small,kitchen
+237,Taylor LLC,Hortonberg,South,small,personalcare
+238,"Harrison, Gilbert and Bullock",West Jasonberg,West,medium,homecare
+239,"Bentley, Lynch and Henderson",Johnville,West,medium,stationery
+240,Allen Ltd,Brownfort,West,medium,electronics_accessories
+241,"Herrera, Chen and Andrews",West Ruben,East,small,kitchen
+242,"Gomez, Duncan and Lopez",New Theresaland,North,large,baby
+243,"Stephens, Hartman and Romero",South Morganton,North,medium,homecare
+244,"Hughes, Brooks and Burgess",Kristinastad,North,large,grocery
+245,Quinn Ltd,Port Bonniemouth,North,small,homecare
+246,Williams PLC,Lisaburgh,North,large,snacks
+247,"Marshall, Dominguez and Welch",North Jennifer,South,small,kitchen
+248,Johnson-Harris,North Leslie,North,large,homecare
+249,Robertson-Hays,Kingborough,West,large,personalcare
+250,Kelly-Norman,Joshuastad,East,small,pet
+251,Preston-Paul,Morganburgh,Central,large,fashion
+252,Holt-Richardson,Lauriechester,North,small,personalcare
+253,Jordan and Sons,Manuelland,North,large,grocery
+254,Guerrero-Parker,Jacksonmouth,East,large,health
+255,West-Acosta,Christinachester,West,medium,fashion
+256,Fowler-Moody,North Emilyfurt,South,small,pet
+257,Palmer-Brady,North Douglas,South,small,fashion
+258,"Gregory, Kim and Martinez",Port Deanna,East,large,pet
+259,Reyes-Bradley,Lake Shannon,North,large,grocery
+260,Watson-Hines,New Michael,East,large,electronics_accessories
+261,Banks-Wright,North Jillfort,East,small,baby
+262,"Hughes, Hoffman and Green",Janeborough,East,small,electronics_accessories
+263,"Mitchell, Hendricks and Henry",East Melissamouth,West,small,electronics_accessories
+264,Roach Group,Port Evelynmouth,East,large,kitchen
+265,"Reed, Brown and Daniels",Melissaburgh,South,medium,snacks
+266,Hicks-Martinez,Port Dominic,Central,large,personalcare
+267,Johnson-Spencer,Tannerside,Central,large,kitchen
+268,Salazar Inc,West Raymondfort,West,medium,fashion
+269,"Jenkins, Ortiz and Andrews",West Dawn,Central,medium,stationery
+270,Owens-Holmes,Port Kimberly,South,small,personalcare
+271,"Matthews, Saunders and Anderson",Port Davidberg,West,small,kitchen
+272,Martin-Morris,West Stacey,Central,large,health
+273,"Jacobson, Singleton and King",Davidport,West,medium,grocery
+274,"Ferguson, Shaw and Jackson",East Donna,West,medium,snacks
+275,"Winters, Morgan and Bradshaw",Port Michelleland,West,small,stationery
+276,Fry PLC,Debrashire,East,medium,personalcare
+277,Montgomery-Johnson,Dawnport,Central,large,personalcare
+278,Sanchez-Aguirre,Evansland,Central,small,baby
+279,"Brown, Gonzales and Washington",West Catherine,South,small,homecare
+280,Hensley-Flores,Theresaberg,West,medium,baby
+281,Robertson-Rodriguez,South David,South,large,kitchen
+282,Wright-Davis,Soniachester,West,medium,grocery
+283,Estes and Sons,Sarahmouth,North,medium,homecare
+284,Hines Group,Jimenezport,West,large,homecare
+285,Johnson-Landry,Levyborough,East,large,pet
+286,"Gomez, Williams and Simpson",Mitchelltown,East,medium,baby
+287,Jordan LLC,Kathrynstad,Central,medium,electronics_accessories
+288,Morales PLC,West Angela,Central,medium,stationery
+289,Hughes Group,Marciaville,West,medium,personalcare
+290,Hester Group,Lauramouth,East,small,beverages
+291,"Mcmillan, Fischer and Gonzalez",Porterton,South,medium,beverages
+292,Taylor LLC,Stoneberg,Central,large,snacks
+293,"Barry, Taylor and Velazquez",Franciscoport,South,small,fashion
+294,"Rogers, Clayton and Patel",Thomastown,West,medium,fashion
+295,Rivera-Rodriguez,Silvatown,Central,large,pet
+296,"Wells, Coffey and Patton",Lake Brett,East,small,homecare
+297,Jackson-Fuller,Hernandezbury,East,small,stationery
+298,Armstrong Ltd,East Andrewmouth,South,medium,grocery
+299,Hernandez-Vaughn,Shawfort,Central,small,personalcare
+300,"Luna, Thornton and Stone",Whitneyfort,North,small,baby
+301,"Bennett, Frye and Stevens",Amyview,East,large,snacks
+302,"Washington, Bernard and Ramirez",Jeffreyport,West,small,grocery
+303,Bush-Vaughn,Stewartstad,Central,medium,kitchen
+304,"Peck, Pope and Hill",New Ericafurt,West,medium,stationery
+305,Cardenas-Blevins,West Bobby,South,small,personalcare
+306,"Miller, Bradshaw and Douglas",Lewisside,West,small,beverages
+307,Fitzpatrick-Horton,North Christina,West,medium,beverages
+308,"Allen, Williams and Stein",Lake Jesse,Central,large,health
+309,Gutierrez Ltd,Garciaberg,North,small,snacks
+310,Oconnell and Sons,Delgadofort,Central,medium,beverages
+311,Santos-Avila,Manuelton,South,small,baby
+312,Pearson and Sons,East Robertburgh,West,large,pet
+313,Osborn Group,Lopezport,Central,small,baby
+314,Smith PLC,West Justinside,West,medium,kitchen
+315,"Snyder, Mays and Rosales",Nelsonville,East,large,electronics_accessories
+316,Martin-Stevens,Jennifertown,East,large,pet
+317,"Rogers, Phillips and Craig",East Cheryl,North,large,fashion
+318,"Prince, Wilcox and Robertson",South Elizabethburgh,North,small,health
+319,Woods and Sons,West Patrickmouth,South,medium,health
+320,Finley-Turner,West Desireebury,North,small,homecare
+321,Contreras Group,Erikhaven,South,large,beverages
+322,"Carrillo, Vaughn and Fowler",Michaelbury,South,small,electronics_accessories
+323,Bernard Group,South Julie,West,large,pet
+324,"Brooks, Miles and Durham",Port John,West,medium,grocery
+325,"Marks, Miller and Griffin",Christianshire,South,medium,fashion
+326,Brown PLC,New Amanda,East,large,kitchen
+327,Murphy PLC,Wilsonborough,North,large,homecare
+328,"Aguilar, Davis and Dixon",South Davidchester,East,large,pet
+329,Elliott-Hansen,Jenniferfurt,South,medium,beverages
+330,Velasquez-Reese,North Rodneyland,Central,small,health
+331,"Mcknight, Michael and Jones",Johnsonchester,South,medium,snacks
+332,Mack Ltd,Brooksfurt,North,small,snacks
+333,Kane-Knox,Millerside,East,large,fashion
+334,Valdez LLC,East Victoriafurt,Central,medium,kitchen
+335,"Anderson, Irwin and Davenport",West Stevenside,North,medium,fashion
+336,Patel-Morrow,South Michael,East,large,electronics_accessories
+337,Lopez-Golden,North Lisachester,East,large,baby
+338,"Miranda, Stephenson and Smith",North Craig,West,medium,beverages
+339,Griffin Ltd,East Joyfurt,Central,small,electronics_accessories
+340,Young-Robinson,East Williamport,East,large,personalcare
+341,Cabrera Ltd,Barbaramouth,North,small,homecare
+342,Turner and Sons,South Kevin,Central,large,grocery
+343,Hawkins PLC,Lake Erika,East,large,grocery
+344,"Simpson, Compton and David",Floydmouth,South,medium,baby
+345,"Butler, Hernandez and Bennett",Allenbury,West,medium,snacks
+346,Mathews-Thomas,Melendezside,Central,medium,health
+347,Faulkner-Grant,South John,West,small,kitchen
+348,Rivera Inc,Booneland,East,medium,stationery
+349,"Hardy, Lee and Adams",Port Charlesshire,East,large,beverages
+350,"Powers, Robinson and Clark",Kevintown,South,medium,electronics_accessories
+351,Giles Ltd,Lake Yvonnefort,West,medium,health
+352,Dominguez Ltd,South Rose,West,large,grocery
+353,"Morris, Campbell and Owens",Kylestad,West,small,stationery
+354,"Andrade, Owens and Lang",Gillmouth,East,medium,beverages
+355,Wood Group,New Michelleberg,West,large,grocery
+356,Green PLC,Phillipsborough,Central,medium,electronics_accessories
+357,Hall-Hudson,South Andrea,North,small,baby
+358,"Morgan, Hines and Burns",Murraystad,East,large,kitchen
+359,Taylor PLC,Whiteside,West,small,homecare
+360,"Bernard, Warren and Combs",Port Elizabethtown,East,large,snacks
+361,Taylor-Mccoy,Lake Edwardborough,East,medium,fashion
+362,"Bryant, Brown and Little",Hopkinstown,West,small,grocery
+363,Patel Group,North Alyssaview,Central,small,fashion
+364,"Madden, Smith and Li",Drakeburgh,South,medium,baby
+365,Hull PLC,East James,North,large,electronics_accessories
+366,"King, Gomez and Norton",West Susanmouth,North,small,beverages
+367,"Sanchez, Terry and Evans",Lake Victoriaton,West,small,health
+368,Sullivan Group,Browntown,South,medium,fashion
+369,"Jackson, Porter and Hamilton",Arielville,East,large,fashion
+370,"Ellison, Hall and Valenzuela",Nelsonland,East,medium,kitchen
+371,"Frost, Lam and Elliott",East Sarahmouth,West,small,kitchen
+372,Ali PLC,Port Lori,Central,small,electronics_accessories
+373,Hickman-Evans,New Mary,South,large,baby
+374,Rhodes-Fernandez,Camposberg,South,small,personalcare
+375,"Ramsey, Mason and Mccann",North Samuelland,West,medium,baby
+376,Jacobs-Austin,Novakmouth,East,small,personalcare
+377,Walters Group,Perezside,East,large,pet
+378,Reynolds-Frazier,Millerport,West,small,kitchen
+379,Marquez Inc,Ericberg,Central,medium,stationery
+380,"Price, Ward and Davis",Seanview,East,large,baby
+381,Anderson and Sons,Coleside,West,medium,stationery
+382,"Russell, Johnson and Gomez",New Carlymouth,South,large,homecare
+383,Smith-Gutierrez,Lake Rachelbury,Central,medium,homecare
+384,"Meyer, Jennings and Jackson",Kevinfort,West,small,stationery
+385,Brown Group,Robertfort,West,large,electronics_accessories
+386,Ward and Sons,Wheelerborough,West,large,health
+387,Rodriguez-Torres,Cookfurt,South,medium,grocery
+388,Alexander-Jordan,West Malik,South,large,pet
+389,"Harris, Edwards and Oconnell",Kellyfort,East,small,kitchen
+390,"Casey, Nguyen and Ramirez",Diazshire,North,large,kitchen
+391,Vargas PLC,Lake Katrina,North,large,snacks
+392,Benton Group,South Lauren,West,large,snacks
+393,"Jones, Abbott and Pope",Taylorport,North,medium,personalcare
+394,King and Sons,Mccormickland,East,large,fashion
+395,Ewing-Mendoza,Fergusonchester,West,large,beverages
+396,"Johnson, Schmitt and Miles",North Kaylastad,East,large,baby
+397,Holland Inc,Rasmussenmouth,West,medium,health
+398,Rodriguez-Garcia,New Julie,West,large,grocery
+399,"Carpenter, Johnston and Griffin",Fordshire,Central,small,homecare
+400,"Mason, Cooper and Johnson",West Robertland,East,small,fashion
+401,Guerra Ltd,West Larry,North,medium,beverages
+402,Mueller-Boyd,Thomasmouth,North,medium,snacks
+403,"Horton, Flores and Evans",North Melindaville,East,small,grocery
+404,"Marsh, Spears and Yang",New Ethan,East,small,personalcare
+405,"Simmons, Murray and Salinas",East Danielle,East,medium,electronics_accessories
+406,Foster-Mclaughlin,South Brittany,South,small,baby
+407,Smith-Lewis,Karenland,West,large,health
+408,"Garcia, Wiggins and Lopez",Jamesville,South,small,snacks
+409,Lambert-Burns,Candicefurt,North,large,electronics_accessories
+410,"Wilson, Bell and Ellis",Port Emily,Central,large,homecare
+411,Sellers-Lawrence,West David,West,large,snacks
+412,Wilson-Brooks,New Paul,South,medium,health
+413,"Taylor, Reyes and Lopez",New Garrett,East,medium,personalcare
+414,Taylor-Edwards,Harveystad,North,medium,personalcare
+415,Washington and Sons,Maynardhaven,Central,small,beverages
+416,"Simpson, Cohen and Perry",Burnsland,West,medium,pet
+417,"Johnson, Juarez and Carter",Jeffreyport,East,large,electronics_accessories
+418,Norman PLC,Dunnville,East,medium,personalcare
+419,"Wilson, Hampton and Morrow",Amberton,South,medium,kitchen
+420,"Alexander, Robinson and Coleman",West Nancy,North,small,electronics_accessories
+421,Cole LLC,South Michelleville,Central,medium,pet
+422,Clark Ltd,Michellechester,East,large,personalcare
+423,Jensen and Sons,Port Brian,North,large,electronics_accessories
+424,Patel-Carlson,West Tiffany,East,small,pet
+425,Roberts-Adams,East Sydneychester,North,large,fashion
+426,Riddle Ltd,Lake Michelle,West,medium,homecare
+427,Thomas LLC,Port Megan,Central,medium,homecare
+428,Burns-Ray,Courtneyfurt,South,large,personalcare
+429,Jones-Norton,South Zacharyview,South,large,beverages
+430,"Mayer, Wood and Clements",Brandiland,North,medium,kitchen
+431,"Stanton, Reid and Terry",Port Amandaborough,North,large,stationery
+432,Summers-Simpson,Mariamouth,South,small,personalcare
+433,"Lane, Knight and Washington",Patriciaton,East,large,electronics_accessories
+434,Garcia Group,North Sarahburgh,South,small,snacks
+435,Bryant-Braun,Harrisberg,Central,medium,baby
+436,"Turner, Baxter and Mcdowell",Lake Michaelland,Central,medium,snacks
+437,Beck-Banks,South Conniebury,East,medium,personalcare
+438,Rios-Padilla,East Thomasberg,East,small,kitchen
+439,"Perez, Frazier and Smith",Lisachester,North,small,homecare
+440,"Anderson, Jones and Reyes",North Lawrenceport,West,large,stationery
+441,Reyes and Sons,North Alyssa,North,medium,grocery
+442,Bishop and Sons,Bellborough,East,large,beverages
+443,"Goodman, Gillespie and Jensen",Heathland,West,medium,health
+444,Taylor Inc,Bellchester,East,large,electronics_accessories
+445,Moody-Wright,East Angelaport,East,small,health
+446,"Johnson, Boone and Liu",New Catherine,South,medium,grocery
+447,Adkins LLC,Port Rachaelbury,Central,large,stationery
+448,Cruz-Allen,New Pamelatown,Central,small,health
+449,Peck-Anderson,Diazburgh,North,large,kitchen
+450,Best-Townsend,New Carlosview,East,large,electronics_accessories
+451,Williams Inc,Hunterhaven,North,small,grocery
+452,Henderson-Morales,West Christopher,North,medium,kitchen
+453,Dixon and Sons,New Mark,North,small,homecare
+454,"Walters, Davenport and Becker",West Hollybury,Central,small,electronics_accessories
+455,Sanchez Group,South Cherylton,West,medium,health
+456,Wade-Barrett,North Alexander,Central,medium,pet
+457,Miles and Sons,Bentonhaven,South,medium,health
+458,"Logan, Le and Jackson",Lake Kimberly,North,medium,pet
+459,Quinn-Wilson,West Lindsayview,West,medium,grocery
+460,"Brown, Joseph and Ray",South Spencerstad,East,small,kitchen
+461,Porter PLC,West Eric,West,small,stationery
+462,Shannon Ltd,East Joycetown,North,large,stationery
+463,Trevino Inc,North Thomas,Central,large,stationery
+464,Mora-White,New Lindachester,North,medium,personalcare
+465,Morris Group,Josephland,South,small,kitchen
+466,"Watson, Shaw and Winters",East Linda,North,large,homecare
+467,Finley Inc,Clineport,Central,small,grocery
+468,Miller-Bryant,Jamesshire,East,small,snacks
+469,Stevenson-Sanchez,Brittanyfort,Central,small,beverages
+470,Oconnor PLC,East Adam,Central,small,pet
+471,Johnson-Weaver,West Aaronfurt,South,small,stationery
+472,"Acosta, Garcia and Moreno",South Travis,South,large,grocery
+473,Kaufman and Sons,Christopherbury,East,small,snacks
+474,"Gutierrez, Huang and Ellis",New Codyberg,Central,medium,snacks
+475,"Wilkins, Jones and Bradley",Batesberg,North,large,grocery
+476,Carter LLC,Haynesmouth,South,small,stationery
+477,Chavez-Hall,East Kimberly,South,large,stationery
+478,"Rodriguez, Garcia and Cole",Richardside,North,small,personalcare
+479,Oconnell-Clark,Stevenville,North,small,fashion
+480,Moore Ltd,Margaretton,West,large,beverages
+481,Huff LLC,North Jennifer,North,medium,kitchen
+482,Foster-Williams,Jorgeburgh,East,large,pet
+483,Crane Group,North Steven,North,medium,baby
+484,Martinez Inc,East James,South,large,grocery
+485,Watson-Mccoy,New Brendaland,Central,medium,kitchen
+486,Osborn and Sons,Lambland,North,small,kitchen
+487,Martinez-Dunlap,East Sandrachester,West,medium,health
+488,"Foster, Johnson and Vega",West Jason,North,medium,fashion
+489,Hill Group,North Christina,West,small,beverages
+490,"Sanchez, Phillips and Jenkins",Brownview,East,large,snacks
+491,Taylor-Gonzalez,Lake Virginia,North,small,personalcare
+492,"Norton, Mayo and Casey",Timothyfort,Central,large,pet
+493,Durham-Shaw,Nelsontown,Central,large,stationery
+494,Harper-Johnson,Brianfort,West,large,baby
+495,"Howard, Silva and Hall",North John,East,medium,baby
+496,Adams Ltd,Port Wendybury,Central,medium,beverages
+497,"Bradford, Salinas and Kelly",East Joel,North,large,health
+498,Drake-Wolfe,Lake Jackieshire,Central,large,homecare
+499,"Thomas, Vaughan and Copeland",Weaverburgh,West,medium,homecare
+500,Johnson-Brown,North Alisha,West,medium,kitchen
+501,mohana prasanth,India,north,medium,kitchen
+502,vikraman,India,north,medium,kitchen
+503,santhosh,India,north,medium,kitchen
+504,nitheesan,India,north,medium,kitchen

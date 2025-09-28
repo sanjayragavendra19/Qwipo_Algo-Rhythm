@@ -1,0 +1,20 @@
+/* Reset styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body, #root {
+  height: 100%;
+  width: 100%;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Center App */
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(to right, #ffe4ec, #ffffff, #fde2e4);
+}

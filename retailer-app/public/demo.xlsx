@@ -1,0 +1,2001 @@
+product_id,name,category,brand,price,description
+1,Headphones,Daily Essentials,BrandD,265.05,New arrival
+2,Soap,Electronics,BrandA,283.34,Best seller
+3,Headphones,Apparel,BrandC,337.49,New arrival
+4,Refrigerator,Consumer Durable,BrandC,410.46,Budget friendly
+5,Camera,Consumer Durable,BrandD,201.17,New arrival
+6,Vegetables,Daily Essentials,BrandC,196.97,Top rated
+7,Printer,Electronics,BrandC,471.45,High quality
+8,Washing Machine,FMCG,BrandB,71.31,High quality
+9,Air Conditioner,Consumer Durable,BrandA,450.34,New arrival
+10,Microwave,Electronics,BrandB,46.42,Budget friendly
+11,Smartwatch,Consumer Durable,BrandB,25.72,New arrival
+12,Milk,Apparel,BrandB,98.11,Budget friendly
+13,Rice,Daily Essentials,BrandC,294.16,High quality
+14,Microwave,Consumer Durable,BrandA,176.98,Best seller
+15,Toothpaste,Apparel,BrandB,60.13,High quality
+16,Shoes,Apparel,BrandD,484.05,Top rated
+17,Mouse,Consumer Durable,BrandC,105.51,Budget friendly
+18,Printer,Consumer Durable,BrandD,67.52,High quality
+19,Mouse,FMCG,BrandD,78.01,Budget friendly
+20,Microwave,Consumer Durable,BrandA,476.52,Budget friendly
+21,Juice,Electronics,BrandD,87.99,Best seller
+22,Milk,Apparel,BrandC,389.89,High quality
+23,Keyboard,FMCG,BrandA,217.21,High quality
+24,Jacket,Consumer Durable,BrandC,81.62,Best seller
+25,Washing Machine,Electronics,BrandA,103.05,Top rated
+26,Bread,Electronics,BrandC,272.81,New arrival
+27,Jeans,Electronics,BrandB,43.51,Budget friendly
+28,Shampoo,Consumer Durable,BrandD,117.58,Top rated
+29,Printer,FMCG,BrandD,299.43,Best seller
+30,Juice,Apparel,BrandB,74.36,New arrival
+31,Printer,FMCG,BrandB,499.83,Budget friendly
+32,Juice,Electronics,BrandC,128.63,New arrival
+33,Soap,Electronics,BrandC,102.91,New arrival
+34,Smartwatch,Daily Essentials,BrandA,83.5,High quality
+35,Rice,Consumer Durable,BrandD,347.46,Budget friendly
+36,Printer,Daily Essentials,BrandB,76.0,Budget friendly
+37,Soap,Electronics,BrandC,204.11,Top rated
+38,Smartphone,FMCG,BrandA,485.36,New arrival
+39,Printer,Apparel,BrandD,320.26,Budget friendly
+40,Mouse,Daily Essentials,BrandA,445.48,Top rated
+41,Air Conditioner,Daily Essentials,BrandD,150.94,Top rated
+42,Printer,Electronics,BrandD,320.29,Budget friendly
+43,Juice,FMCG,BrandA,406.01,Top rated
+44,Jacket,Daily Essentials,BrandD,198.25,Best seller
+45,Biscuits,Consumer Durable,BrandB,74.49,Top rated
+46,Printer,Daily Essentials,BrandA,210.2,New arrival
+47,Refrigerator,FMCG,BrandC,51.3,Top rated
+48,Laptop,Consumer Durable,BrandC,320.42,Top rated
+49,Milk,Daily Essentials,BrandB,208.7,High quality
+50,Keyboard,FMCG,BrandD,300.83,Best seller
+51,Headphones,Daily Essentials,BrandD,265.05,New arrival
+52,Soap,Electronics,BrandA,283.34,Best seller
+53,Headphones,Apparel,BrandC,337.49,New arrival
+54,Refrigerator,Consumer Durable,BrandC,410.46,Budget friendly
+55,Camera,Consumer Durable,BrandD,201.17,New arrival
+56,Vegetables,Daily Essentials,BrandC,196.97,Top rated
+57,Printer,Electronics,BrandC,471.45,High quality
+58,Washing Machine,FMCG,BrandB,71.31,High quality
+59,Air Conditioner,Consumer Durable,BrandA,450.34,New arrival
+60,Microwave,Electronics,BrandB,46.42,Budget friendly
+61,Smartwatch,Consumer Durable,BrandB,25.72,New arrival
+62,Milk,Apparel,BrandB,98.11,Budget friendly
+63,Rice,Daily Essentials,BrandC,294.16,High quality
+64,Microwave,Consumer Durable,BrandA,176.98,Best seller
+65,Toothpaste,Apparel,BrandB,60.13,High quality
+66,Shoes,Apparel,BrandD,484.05,Top rated
+67,Mouse,Consumer Durable,BrandC,105.51,Budget friendly
+68,Printer,Consumer Durable,BrandD,67.52,High quality
+69,Mouse,FMCG,BrandD,78.01,Budget friendly
+70,Microwave,Consumer Durable,BrandA,476.52,Budget friendly
+71,Juice,Electronics,BrandD,87.99,Best seller
+72,Milk,Apparel,BrandC,389.89,High quality
+73,Keyboard,FMCG,BrandA,217.21,High quality
+74,Jacket,Consumer Durable,BrandC,81.62,Best seller
+75,Washing Machine,Electronics,BrandA,103.05,Top rated
+76,Bread,Electronics,BrandC,272.81,New arrival
+77,Jeans,Electronics,BrandB,43.51,Budget friendly
+78,Shampoo,Consumer Durable,BrandD,117.58,Top rated
+79,Printer,FMCG,BrandD,299.43,Best seller
+80,Juice,Apparel,BrandB,74.36,New arrival
+81,Printer,FMCG,BrandB,499.83,Budget friendly
+82,Juice,Electronics,BrandC,128.63,New arrival
+83,Soap,Electronics,BrandC,102.91,New arrival
+84,Smartwatch,Daily Essentials,BrandA,83.5,High quality
+85,Rice,Consumer Durable,BrandD,347.46,Budget friendly
+86,Printer,Daily Essentials,BrandB,76.0,Budget friendly
+87,Soap,Electronics,BrandC,204.11,Top rated
+88,Smartphone,FMCG,BrandA,485.36,New arrival
+89,Printer,Apparel,BrandD,320.26,Budget friendly
+90,Mouse,Daily Essentials,BrandA,445.48,Top rated
+91,Air Conditioner,Daily Essentials,BrandD,150.94,Top rated
+92,Printer,Electronics,BrandD,320.29,Budget friendly
+93,Juice,FMCG,BrandA,406.01,Top rated
+94,Jacket,Daily Essentials,BrandD,198.25,Best seller
+95,Biscuits,Consumer Durable,BrandB,74.49,Top rated
+96,Printer,Daily Essentials,BrandA,210.2,New arrival
+97,Refrigerator,FMCG,BrandC,51.3,Top rated
+98,Laptop,Consumer Durable,BrandC,320.42,Top rated
+99,Milk,Daily Essentials,BrandB,208.7,High quality
+100,Keyboard,FMCG,BrandD,300.83,Best seller
+101,Headphones,Daily Essentials,BrandD,265.05,New arrival
+102,Soap,Electronics,BrandA,283.34,Best seller
+103,Headphones,Apparel,BrandC,337.49,New arrival
+104,Refrigerator,Consumer Durable,BrandC,410.46,Budget friendly
+105,Camera,Consumer Durable,BrandD,201.17,New arrival
+106,Vegetables,Daily Essentials,BrandC,196.97,Top rated
+107,Printer,Electronics,BrandC,471.45,High quality
+108,Washing Machine,FMCG,BrandB,71.31,High quality
+109,Air Conditioner,Consumer Durable,BrandA,450.34,New arrival
+110,Microwave,Electronics,BrandB,46.42,Budget friendly
+111,Smartwatch,Consumer Durable,BrandB,25.72,New arrival
+112,Milk,Apparel,BrandB,98.11,Budget friendly
+113,Rice,Daily Essentials,BrandC,294.16,High quality
+114,Microwave,Consumer Durable,BrandA,176.98,Best seller
+115,Toothpaste,Apparel,BrandB,60.13,High quality
+116,Shoes,Apparel,BrandD,484.05,Top rated
+117,Mouse,Consumer Durable,BrandC,105.51,Budget friendly
+118,Printer,Consumer Durable,BrandD,67.52,High quality
+119,Mouse,FMCG,BrandD,78.01,Budget friendly
+120,Microwave,Consumer Durable,BrandA,476.52,Budget friendly
+121,Juice,Electronics,BrandD,87.99,Best seller
+122,Milk,Apparel,BrandC,389.89,High quality
+123,Keyboard,FMCG,BrandA,217.21,High quality
+124,Jacket,Consumer Durable,BrandC,81.62,Best seller
+125,Washing Machine,Electronics,BrandA,103.05,Top rated
+126,Bread,Electronics,BrandC,272.81,New arrival
+127,Jeans,Electronics,BrandB,43.51,Budget friendly
+128,Shampoo,Consumer Durable,BrandD,117.58,Top rated
+129,Printer,FMCG,BrandD,299.43,Best seller
+130,Juice,Apparel,BrandB,74.36,New arrival
+131,Printer,FMCG,BrandB,499.83,Budget friendly
+132,Juice,Electronics,BrandC,128.63,New arrival
+133,Soap,Electronics,BrandC,102.91,New arrival
+134,Smartwatch,Daily Essentials,BrandA,83.5,High quality
+135,Rice,Consumer Durable,BrandD,347.46,Budget friendly
+136,Printer,Daily Essentials,BrandB,76.0,Budget friendly
+137,Soap,Electronics,BrandC,204.11,Top rated
+138,Smartphone,FMCG,BrandA,485.36,New arrival
+139,Printer,Apparel,BrandD,320.26,Budget friendly
+140,Mouse,Daily Essentials,BrandA,445.48,Top rated
+141,Air Conditioner,Daily Essentials,BrandD,150.94,Top rated
+142,Printer,Electronics,BrandD,320.29,Budget friendly
+143,Juice,FMCG,BrandA,406.01,Top rated
+144,Jacket,Daily Essentials,BrandD,198.25,Best seller
+145,Biscuits,Consumer Durable,BrandB,74.49,Top rated
+146,Printer,Daily Essentials,BrandA,210.2,New arrival
+147,Refrigerator,FMCG,BrandC,51.3,Top rated
+148,Laptop,Consumer Durable,BrandC,320.42,Top rated
+149,Milk,Daily Essentials,BrandB,208.7,High quality
+150,Keyboard,FMCG,BrandD,300.83,Best seller
+151,Headphones,Daily Essentials,BrandD,265.05,New arrival
+152,Soap,Electronics,BrandA,283.34,Best seller
+153,Headphones,Apparel,BrandC,337.49,New arrival
+154,Refrigerator,Consumer Durable,BrandC,410.46,Budget friendly
+155,Camera,Consumer Durable,BrandD,201.17,New arrival
+156,Vegetables,Daily Essentials,BrandC,196.97,Top rated
+157,Printer,Electronics,BrandC,471.45,High quality
+158,Washing Machine,FMCG,BrandB,71.31,High quality
+159,Air Conditioner,Consumer Durable,BrandA,450.34,New arrival
+160,Microwave,Electronics,BrandB,46.42,Budget friendly
+161,Smartwatch,Consumer Durable,BrandB,25.72,New arrival
+162,Milk,Apparel,BrandB,98.11,Budget friendly
+163,Rice,Daily Essentials,BrandC,294.16,High quality
+164,Microwave,Consumer Durable,BrandA,176.98,Best seller
+165,Toothpaste,Apparel,BrandB,60.13,High quality
+166,Shoes,Apparel,BrandD,484.05,Top rated
+167,Mouse,Consumer Durable,BrandC,105.51,Budget friendly
+168,Printer,Consumer Durable,BrandD,67.52,High quality
+169,Mouse,FMCG,BrandD,78.01,Budget friendly
+170,Microwave,Consumer Durable,BrandA,476.52,Budget friendly
+171,Juice,Electronics,BrandD,87.99,Best seller
+172,Milk,Apparel,BrandC,389.89,High quality
+173,Keyboard,FMCG,BrandA,217.21,High quality
+174,Jacket,Consumer Durable,BrandC,81.62,Best seller
+175,Washing Machine,Electronics,BrandA,103.05,Top rated
+176,Bread,Electronics,BrandC,272.81,New arrival
+177,Jeans,Electronics,BrandB,43.51,Budget friendly
+178,Shampoo,Consumer Durable,BrandD,117.58,Top rated
+179,Printer,FMCG,BrandD,299.43,Best seller
+180,Juice,Apparel,BrandB,74.36,New arrival
+181,Printer,FMCG,BrandB,499.83,Budget friendly
+182,Juice,Electronics,BrandC,128.63,New arrival
+183,Soap,Electronics,BrandC,102.91,New arrival
+184,Smartwatch,Daily Essentials,BrandA,83.5,High quality
+185,Rice,Consumer Durable,BrandD,347.46,Budget friendly
+186,Printer,Daily Essentials,BrandB,76.0,Budget friendly
+187,Soap,Electronics,BrandC,204.11,Top rated
+188,Smartphone,FMCG,BrandA,485.36,New arrival
+189,Printer,Apparel,BrandD,320.26,Budget friendly
+190,Mouse,Daily Essentials,BrandA,445.48,Top rated
+191,Air Conditioner,Daily Essentials,BrandD,150.94,Top rated
+192,Printer,Electronics,BrandD,320.29,Budget friendly
+193,Juice,FMCG,BrandA,406.01,Top rated
+194,Jacket,Daily Essentials,BrandD,198.25,Best seller
+195,Biscuits,Consumer Durable,BrandB,74.49,Top rated
+196,Printer,Daily Essentials,BrandA,210.2,New arrival
+197,Refrigerator,FMCG,BrandC,51.3,Top rated
+198,Laptop,Consumer Durable,BrandC,320.42,Top rated
+199,Milk,Daily Essentials,BrandB,208.7,High quality
+200,Keyboard,FMCG,BrandD,300.83,Best seller
+201,Headphones,Daily Essentials,BrandD,265.05,New arrival
+202,Soap,Electronics,BrandA,283.34,Best seller
+203,Headphones,Apparel,BrandC,337.49,New arrival
+204,Refrigerator,Consumer Durable,BrandC,410.46,Budget friendly
+205,Camera,Consumer Durable,BrandD,201.17,New arrival
+206,Vegetables,Daily Essentials,BrandC,196.97,Top rated
+207,Printer,Electronics,BrandC,471.45,High quality
+208,Washing Machine,FMCG,BrandB,71.31,High quality
+209,Air Conditioner,Consumer Durable,BrandA,450.34,New arrival
+210,Microwave,Electronics,BrandB,46.42,Budget friendly
+211,Smartwatch,Consumer Durable,BrandB,25.72,New arrival
+212,Milk,Apparel,BrandB,98.11,Budget friendly
+213,Rice,Daily Essentials,BrandC,294.16,High quality
+214,Microwave,Consumer Durable,BrandA,176.98,Best seller
+215,Toothpaste,Apparel,BrandB,60.13,High quality
+216,Shoes,Apparel,BrandD,484.05,Top rated
+217,Mouse,Consumer Durable,BrandC,105.51,Budget friendly
+218,Printer,Consumer Durable,BrandD,67.52,High quality
+219,Mouse,FMCG,BrandD,78.01,Budget friendly
+220,Microwave,Consumer Durable,BrandA,476.52,Budget friendly
+221,Juice,Electronics,BrandD,87.99,Best seller
+222,Milk,Apparel,BrandC,389.89,High quality
+223,Keyboard,FMCG,BrandA,217.21,High quality
+224,Jacket,Consumer Durable,BrandC,81.62,Best seller
+225,Washing Machine,Electronics,BrandA,103.05,Top rated
+226,Bread,Electronics,BrandC,272.81,New arrival
+227,Jeans,Electronics,BrandB,43.51,Budget friendly
+228,Shampoo,Consumer Durable,BrandD,117.58,Top rated
+229,Printer,FMCG,BrandD,299.43,Best seller
+230,Juice,Apparel,BrandB,74.36,New arrival
+231,Printer,FMCG,BrandB,499.83,Budget friendly
+232,Juice,Electronics,BrandC,128.63,New arrival
+233,Soap,Electronics,BrandC,102.91,New arrival
+234,Smartwatch,Daily Essentials,BrandA,83.5,High quality
+235,Rice,Consumer Durable,BrandD,347.46,Budget friendly
+236,Printer,Daily Essentials,BrandB,76.0,Budget friendly
+237,Soap,Electronics,BrandC,204.11,Top rated
+238,Smartphone,FMCG,BrandA,485.36,New arrival
+239,Printer,Apparel,BrandD,320.26,Budget friendly
+240,Mouse,Daily Essentials,BrandA,445.48,Top rated
+241,Air Conditioner,Daily Essentials,BrandD,150.94,Top rated
+242,Printer,Electronics,BrandD,320.29,Budget friendly
+243,Juice,FMCG,BrandA,406.01,Top rated
+244,Jacket,Daily Essentials,BrandD,198.25,Best seller
+245,Biscuits,Consumer Durable,BrandB,74.49,Top rated
+246,Printer,Daily Essentials,BrandA,210.2,New arrival
+247,Refrigerator,FMCG,BrandC,51.3,Top rated
+248,Laptop,Consumer Durable,BrandC,320.42,Top rated
+249,Milk,Daily Essentials,BrandB,208.7,High quality
+250,Keyboard,FMCG,BrandD,300.83,Best seller
+251,Headphones,Daily Essentials,BrandD,265.05,New arrival
+252,Soap,Electronics,BrandA,283.34,Best seller
+253,Headphones,Apparel,BrandC,337.49,New arrival
+254,Refrigerator,Consumer Durable,BrandC,410.46,Budget friendly
+255,Camera,Consumer Durable,BrandD,201.17,New arrival
+256,Vegetables,Daily Essentials,BrandC,196.97,Top rated
+257,Printer,Electronics,BrandC,471.45,High quality
+258,Washing Machine,FMCG,BrandB,71.31,High quality
+259,Air Conditioner,Consumer Durable,BrandA,450.34,New arrival
+260,Microwave,Electronics,BrandB,46.42,Budget friendly
+261,Smartwatch,Consumer Durable,BrandB,25.72,New arrival
+262,Milk,Apparel,BrandB,98.11,Budget friendly
+263,Rice,Daily Essentials,BrandC,294.16,High quality
+264,Microwave,Consumer Durable,BrandA,176.98,Best seller
+265,Toothpaste,Apparel,BrandB,60.13,High quality
+266,Shoes,Apparel,BrandD,484.05,Top rated
+267,Mouse,Consumer Durable,BrandC,105.51,Budget friendly
+268,Printer,Consumer Durable,BrandD,67.52,High quality
+269,Mouse,FMCG,BrandD,78.01,Budget friendly
+270,Microwave,Consumer Durable,BrandA,476.52,Budget friendly
+271,Juice,Electronics,BrandD,87.99,Best seller
+272,Milk,Apparel,BrandC,389.89,High quality
+273,Keyboard,FMCG,BrandA,217.21,High quality
+274,Jacket,Consumer Durable,BrandC,81.62,Best seller
+275,Washing Machine,Electronics,BrandA,103.05,Top rated
+276,Bread,Electronics,BrandC,272.81,New arrival
+277,Jeans,Electronics,BrandB,43.51,Budget friendly
+278,Shampoo,Consumer Durable,BrandD,117.58,Top rated
+279,Printer,FMCG,BrandD,299.43,Best seller
+280,Juice,Apparel,BrandB,74.36,New arrival
+281,Printer,FMCG,BrandB,499.83,Budget friendly
+282,Juice,Electronics,BrandC,128.63,New arrival
+283,Soap,Electronics,BrandC,102.91,New arrival
+284,Smartwatch,Daily Essentials,BrandA,83.5,High quality
+285,Rice,Consumer Durable,BrandD,347.46,Budget friendly
+286,Printer,Daily Essentials,BrandB,76.0,Budget friendly
+287,Soap,Electronics,BrandC,204.11,Top rated
+288,Smartphone,FMCG,BrandA,485.36,New arrival
+289,Printer,Apparel,BrandD,320.26,Budget friendly
+290,Mouse,Daily Essentials,BrandA,445.48,Top rated
+291,Air Conditioner,Daily Essentials,BrandD,150.94,Top rated
+292,Printer,Electronics,BrandD,320.29,Budget friendly
+293,Juice,FMCG,BrandA,406.01,Top rated
+294,Jacket,Daily Essentials,BrandD,198.25,Best seller
+295,Biscuits,Consumer Durable,BrandB,74.49,Top rated
+296,Printer,Daily Essentials,BrandA,210.2,New arrival
+297,Refrigerator,FMCG,BrandC,51.3,Top rated
+298,Laptop,Consumer Durable,BrandC,320.42,Top rated
+299,Milk,Daily Essentials,BrandB,208.7,High quality
+300,Keyboard,FMCG,BrandD,300.83,Best seller
+301,Headphones,Daily Essentials,BrandD,265.05,New arrival
+302,Soap,Electronics,BrandA,283.34,Best seller
+303,Headphones,Apparel,BrandC,337.49,New arrival
+304,Refrigerator,Consumer Durable,BrandC,410.46,Budget friendly
+305,Camera,Consumer Durable,BrandD,201.17,New arrival
+306,Vegetables,Daily Essentials,BrandC,196.97,Top rated
+307,Printer,Electronics,BrandC,471.45,High quality
+308,Washing Machine,FMCG,BrandB,71.31,High quality
+309,Air Conditioner,Consumer Durable,BrandA,450.34,New arrival
+310,Microwave,Electronics,BrandB,46.42,Budget friendly
+311,Smartwatch,Consumer Durable,BrandB,25.72,New arrival
+312,Milk,Apparel,BrandB,98.11,Budget friendly
+313,Rice,Daily Essentials,BrandC,294.16,High quality
+314,Microwave,Consumer Durable,BrandA,176.98,Best seller
+315,Toothpaste,Apparel,BrandB,60.13,High quality
+316,Shoes,Apparel,BrandD,484.05,Top rated
+317,Mouse,Consumer Durable,BrandC,105.51,Budget friendly
+318,Printer,Consumer Durable,BrandD,67.52,High quality
+319,Mouse,FMCG,BrandD,78.01,Budget friendly
+320,Microwave,Consumer Durable,BrandA,476.52,Budget friendly
+321,Juice,Electronics,BrandD,87.99,Best seller
+322,Milk,Apparel,BrandC,389.89,High quality
+323,Keyboard,FMCG,BrandA,217.21,High quality
+324,Jacket,Consumer Durable,BrandC,81.62,Best seller
+325,Washing Machine,Electronics,BrandA,103.05,Top rated
+326,Bread,Electronics,BrandC,272.81,New arrival
+327,Jeans,Electronics,BrandB,43.51,Budget friendly
+328,Shampoo,Consumer Durable,BrandD,117.58,Top rated
+329,Printer,FMCG,BrandD,299.43,Best seller
+330,Juice,Apparel,BrandB,74.36,New arrival
+331,Printer,FMCG,BrandB,499.83,Budget friendly
+332,Juice,Electronics,BrandC,128.63,New arrival
+333,Soap,Electronics,BrandC,102.91,New arrival
+334,Smartwatch,Daily Essentials,BrandA,83.5,High quality
+335,Rice,Consumer Durable,BrandD,347.46,Budget friendly
+336,Printer,Daily Essentials,BrandB,76.0,Budget friendly
+337,Soap,Electronics,BrandC,204.11,Top rated
+338,Smartphone,FMCG,BrandA,485.36,New arrival
+339,Printer,Apparel,BrandD,320.26,Budget friendly
+340,Mouse,Daily Essentials,BrandA,445.48,Top rated
+341,Air Conditioner,Daily Essentials,BrandD,150.94,Top rated
+342,Printer,Electronics,BrandD,320.29,Budget friendly
+343,Juice,FMCG,BrandA,406.01,Top rated
+344,Jacket,Daily Essentials,BrandD,198.25,Best seller
+345,Biscuits,Consumer Durable,BrandB,74.49,Top rated
+346,Printer,Daily Essentials,BrandA,210.2,New arrival
+347,Refrigerator,FMCG,BrandC,51.3,Top rated
+348,Laptop,Consumer Durable,BrandC,320.42,Top rated
+349,Milk,Daily Essentials,BrandB,208.7,High quality
+350,Keyboard,FMCG,BrandD,300.83,Best seller
+351,Headphones,Daily Essentials,BrandD,265.05,New arrival
+352,Soap,Electronics,BrandA,283.34,Best seller
+353,Headphones,Apparel,BrandC,337.49,New arrival
+354,Refrigerator,Consumer Durable,BrandC,410.46,Budget friendly
+355,Camera,Consumer Durable,BrandD,201.17,New arrival
+356,Vegetables,Daily Essentials,BrandC,196.97,Top rated
+357,Printer,Electronics,BrandC,471.45,High quality
+358,Washing Machine,FMCG,BrandB,71.31,High quality
+359,Air Conditioner,Consumer Durable,BrandA,450.34,New arrival
+360,Microwave,Electronics,BrandB,46.42,Budget friendly
+361,Smartwatch,Consumer Durable,BrandB,25.72,New arrival
+362,Milk,Apparel,BrandB,98.11,Budget friendly
+363,Rice,Daily Essentials,BrandC,294.16,High quality
+364,Microwave,Consumer Durable,BrandA,176.98,Best seller
+365,Toothpaste,Apparel,BrandB,60.13,High quality
+366,Shoes,Apparel,BrandD,484.05,Top rated
+367,Mouse,Consumer Durable,BrandC,105.51,Budget friendly
+368,Printer,Consumer Durable,BrandD,67.52,High quality
+369,Mouse,FMCG,BrandD,78.01,Budget friendly
+370,Microwave,Consumer Durable,BrandA,476.52,Budget friendly
+371,Juice,Electronics,BrandD,87.99,Best seller
+372,Milk,Apparel,BrandC,389.89,High quality
+373,Keyboard,FMCG,BrandA,217.21,High quality
+374,Jacket,Consumer Durable,BrandC,81.62,Best seller
+375,Washing Machine,Electronics,BrandA,103.05,Top rated
+376,Bread,Electronics,BrandC,272.81,New arrival
+377,Jeans,Electronics,BrandB,43.51,Budget friendly
+378,Shampoo,Consumer Durable,BrandD,117.58,Top rated
+379,Printer,FMCG,BrandD,299.43,Best seller
+380,Juice,Apparel,BrandB,74.36,New arrival
+381,Printer,FMCG,BrandB,499.83,Budget friendly
+382,Juice,Electronics,BrandC,128.63,New arrival
+383,Soap,Electronics,BrandC,102.91,New arrival
+384,Smartwatch,Daily Essentials,BrandA,83.5,High quality
+385,Rice,Consumer Durable,BrandD,347.46,Budget friendly
+386,Printer,Daily Essentials,BrandB,76.0,Budget friendly
+387,Soap,Electronics,BrandC,204.11,Top rated
+388,Smartphone,FMCG,BrandA,485.36,New arrival
+389,Printer,Apparel,BrandD,320.26,Budget friendly
+390,Mouse,Daily Essentials,BrandA,445.48,Top rated
+391,Air Conditioner,Daily Essentials,BrandD,150.94,Top rated
+392,Printer,Electronics,BrandD,320.29,Budget friendly
+393,Juice,FMCG,BrandA,406.01,Top rated
+394,Jacket,Daily Essentials,BrandD,198.25,Best seller
+395,Biscuits,Consumer Durable,BrandB,74.49,Top rated
+396,Printer,Daily Essentials,BrandA,210.2,New arrival
+397,Refrigerator,FMCG,BrandC,51.3,Top rated
+398,Laptop,Consumer Durable,BrandC,320.42,Top rated
+399,Milk,Daily Essentials,BrandB,208.7,High quality
+400,Keyboard,FMCG,BrandD,300.83,Best seller
+401,Headphones,Daily Essentials,BrandD,265.05,New arrival
+402,Soap,Electronics,BrandA,283.34,Best seller
+403,Headphones,Apparel,BrandC,337.49,New arrival
+404,Refrigerator,Consumer Durable,BrandC,410.46,Budget friendly
+405,Camera,Consumer Durable,BrandD,201.17,New arrival
+406,Vegetables,Daily Essentials,BrandC,196.97,Top rated
+407,Printer,Electronics,BrandC,471.45,High quality
+408,Washing Machine,FMCG,BrandB,71.31,High quality
+409,Air Conditioner,Consumer Durable,BrandA,450.34,New arrival
+410,Microwave,Electronics,BrandB,46.42,Budget friendly
+411,Smartwatch,Consumer Durable,BrandB,25.72,New arrival
+412,Milk,Apparel,BrandB,98.11,Budget friendly
+413,Rice,Daily Essentials,BrandC,294.16,High quality
+414,Microwave,Consumer Durable,BrandA,176.98,Best seller
+415,Toothpaste,Apparel,BrandB,60.13,High quality
+416,Shoes,Apparel,BrandD,484.05,Top rated
+417,Mouse,Consumer Durable,BrandC,105.51,Budget friendly
+418,Printer,Consumer Durable,BrandD,67.52,High quality
+419,Mouse,FMCG,BrandD,78.01,Budget friendly
+420,Microwave,Consumer Durable,BrandA,476.52,Budget friendly
+421,Juice,Electronics,BrandD,87.99,Best seller
+422,Milk,Apparel,BrandC,389.89,High quality
+423,Keyboard,FMCG,BrandA,217.21,High quality
+424,Jacket,Consumer Durable,BrandC,81.62,Best seller
+425,Washing Machine,Electronics,BrandA,103.05,Top rated
+426,Bread,Electronics,BrandC,272.81,New arrival
+427,Jeans,Electronics,BrandB,43.51,Budget friendly
+428,Shampoo,Consumer Durable,BrandD,117.58,Top rated
+429,Printer,FMCG,BrandD,299.43,Best seller
+430,Juice,Apparel,BrandB,74.36,New arrival
+431,Printer,FMCG,BrandB,499.83,Budget friendly
+432,Juice,Electronics,BrandC,128.63,New arrival
+433,Soap,Electronics,BrandC,102.91,New arrival
+434,Smartwatch,Daily Essentials,BrandA,83.5,High quality
+435,Rice,Consumer Durable,BrandD,347.46,Budget friendly
+436,Printer,Daily Essentials,BrandB,76.0,Budget friendly
+437,Soap,Electronics,BrandC,204.11,Top rated
+438,Smartphone,FMCG,BrandA,485.36,New arrival
+439,Printer,Apparel,BrandD,320.26,Budget friendly
+440,Mouse,Daily Essentials,BrandA,445.48,Top rated
+441,Air Conditioner,Daily Essentials,BrandD,150.94,Top rated
+442,Printer,Electronics,BrandD,320.29,Budget friendly
+443,Juice,FMCG,BrandA,406.01,Top rated
+444,Jacket,Daily Essentials,BrandD,198.25,Best seller
+445,Biscuits,Consumer Durable,BrandB,74.49,Top rated
+446,Printer,Daily Essentials,BrandA,210.2,New arrival
+447,Refrigerator,FMCG,BrandC,51.3,Top rated
+448,Laptop,Consumer Durable,BrandC,320.42,Top rated
+449,Milk,Daily Essentials,BrandB,208.7,High quality
+450,Keyboard,FMCG,BrandD,300.83,Best seller
+451,Headphones,Daily Essentials,BrandD,265.05,New arrival
+452,Soap,Electronics,BrandA,283.34,Best seller
+453,Headphones,Apparel,BrandC,337.49,New arrival
+454,Refrigerator,Consumer Durable,BrandC,410.46,Budget friendly
+455,Camera,Consumer Durable,BrandD,201.17,New arrival
+456,Vegetables,Daily Essentials,BrandC,196.97,Top rated
+457,Printer,Electronics,BrandC,471.45,High quality
+458,Washing Machine,FMCG,BrandB,71.31,High quality
+459,Air Conditioner,Consumer Durable,BrandA,450.34,New arrival
+460,Microwave,Electronics,BrandB,46.42,Budget friendly
+461,Smartwatch,Consumer Durable,BrandB,25.72,New arrival
+462,Milk,Apparel,BrandB,98.11,Budget friendly
+463,Rice,Daily Essentials,BrandC,294.16,High quality
+464,Microwave,Consumer Durable,BrandA,176.98,Best seller
+465,Toothpaste,Apparel,BrandB,60.13,High quality
+466,Shoes,Apparel,BrandD,484.05,Top rated
+467,Mouse,Consumer Durable,BrandC,105.51,Budget friendly
+468,Printer,Consumer Durable,BrandD,67.52,High quality
+469,Mouse,FMCG,BrandD,78.01,Budget friendly
+470,Microwave,Consumer Durable,BrandA,476.52,Budget friendly
+471,Juice,Electronics,BrandD,87.99,Best seller
+472,Milk,Apparel,BrandC,389.89,High quality
+473,Keyboard,FMCG,BrandA,217.21,High quality
+474,Jacket,Consumer Durable,BrandC,81.62,Best seller
+475,Washing Machine,Electronics,BrandA,103.05,Top rated
+476,Bread,Electronics,BrandC,272.81,New arrival
+477,Jeans,Electronics,BrandB,43.51,Budget friendly
+478,Shampoo,Consumer Durable,BrandD,117.58,Top rated
+479,Printer,FMCG,BrandD,299.43,Best seller
+480,Juice,Apparel,BrandB,74.36,New arrival
+481,Printer,FMCG,BrandB,499.83,Budget friendly
+482,Juice,Electronics,BrandC,128.63,New arrival
+483,Soap,Electronics,BrandC,102.91,New arrival
+484,Smartwatch,Daily Essentials,BrandA,83.5,High quality
+485,Rice,Consumer Durable,BrandD,347.46,Budget friendly
+486,Printer,Daily Essentials,BrandB,76.0,Budget friendly
+487,Soap,Electronics,BrandC,204.11,Top rated
+488,Smartphone,FMCG,BrandA,485.36,New arrival
+489,Printer,Apparel,BrandD,320.26,Budget friendly
+490,Mouse,Daily Essentials,BrandA,445.48,Top rated
+491,Air Conditioner,Daily Essentials,BrandD,150.94,Top rated
+492,Printer,Electronics,BrandD,320.29,Budget friendly
+493,Juice,FMCG,BrandA,406.01,Top rated
+494,Jacket,Daily Essentials,BrandD,198.25,Best seller
+495,Biscuits,Consumer Durable,BrandB,74.49,Top rated
+496,Printer,Daily Essentials,BrandA,210.2,New arrival
+497,Refrigerator,FMCG,BrandC,51.3,Top rated
+498,Laptop,Consumer Durable,BrandC,320.42,Top rated
+499,Milk,Daily Essentials,BrandB,208.7,High quality
+500,Keyboard,FMCG,BrandD,300.83,Best seller
+501,Headphones,Daily Essentials,BrandD,265.05,New arrival
+502,Soap,Electronics,BrandA,283.34,Best seller
+503,Headphones,Apparel,BrandC,337.49,New arrival
+504,Refrigerator,Consumer Durable,BrandC,410.46,Budget friendly
+505,Camera,Consumer Durable,BrandD,201.17,New arrival
+506,Vegetables,Daily Essentials,BrandC,196.97,Top rated
+507,Printer,Electronics,BrandC,471.45,High quality
+508,Washing Machine,FMCG,BrandB,71.31,High quality
+509,Air Conditioner,Consumer Durable,BrandA,450.34,New arrival
+510,Microwave,Electronics,BrandB,46.42,Budget friendly
+511,Smartwatch,Consumer Durable,BrandB,25.72,New arrival
+512,Milk,Apparel,BrandB,98.11,Budget friendly
+513,Rice,Daily Essentials,BrandC,294.16,High quality
+514,Microwave,Consumer Durable,BrandA,176.98,Best seller
+515,Toothpaste,Apparel,BrandB,60.13,High quality
+516,Shoes,Apparel,BrandD,484.05,Top rated
+517,Mouse,Consumer Durable,BrandC,105.51,Budget friendly
+518,Printer,Consumer Durable,BrandD,67.52,High quality
+519,Mouse,FMCG,BrandD,78.01,Budget friendly
+520,Microwave,Consumer Durable,BrandA,476.52,Budget friendly
+521,Juice,Electronics,BrandD,87.99,Best seller
+522,Milk,Apparel,BrandC,389.89,High quality
+523,Keyboard,FMCG,BrandA,217.21,High quality
+524,Jacket,Consumer Durable,BrandC,81.62,Best seller
+525,Washing Machine,Electronics,BrandA,103.05,Top rated
+526,Bread,Electronics,BrandC,272.81,New arrival
+527,Jeans,Electronics,BrandB,43.51,Budget friendly
+528,Shampoo,Consumer Durable,BrandD,117.58,Top rated
+529,Printer,FMCG,BrandD,299.43,Best seller
+530,Juice,Apparel,BrandB,74.36,New arrival
+531,Printer,FMCG,BrandB,499.83,Budget friendly
+532,Juice,Electronics,BrandC,128.63,New arrival
+533,Soap,Electronics,BrandC,102.91,New arrival
+534,Smartwatch,Daily Essentials,BrandA,83.5,High quality
+535,Rice,Consumer Durable,BrandD,347.46,Budget friendly
+536,Printer,Daily Essentials,BrandB,76.0,Budget friendly
+537,Soap,Electronics,BrandC,204.11,Top rated
+538,Smartphone,FMCG,BrandA,485.36,New arrival
+539,Printer,Apparel,BrandD,320.26,Budget friendly
+540,Mouse,Daily Essentials,BrandA,445.48,Top rated
+541,Air Conditioner,Daily Essentials,BrandD,150.94,Top rated
+542,Printer,Electronics,BrandD,320.29,Budget friendly
+543,Juice,FMCG,BrandA,406.01,Top rated
+544,Jacket,Daily Essentials,BrandD,198.25,Best seller
+545,Biscuits,Consumer Durable,BrandB,74.49,Top rated
+546,Printer,Daily Essentials,BrandA,210.2,New arrival
+547,Refrigerator,FMCG,BrandC,51.3,Top rated
+548,Laptop,Consumer Durable,BrandC,320.42,Top rated
+549,Milk,Daily Essentials,BrandB,208.7,High quality
+550,Keyboard,FMCG,BrandD,300.83,Best seller
+551,Headphones,Daily Essentials,BrandD,265.05,New arrival
+552,Soap,Electronics,BrandA,283.34,Best seller
+553,Headphones,Apparel,BrandC,337.49,New arrival
+554,Refrigerator,Consumer Durable,BrandC,410.46,Budget friendly
+555,Camera,Consumer Durable,BrandD,201.17,New arrival
+556,Vegetables,Daily Essentials,BrandC,196.97,Top rated
+557,Printer,Electronics,BrandC,471.45,High quality
+558,Washing Machine,FMCG,BrandB,71.31,High quality
+559,Air Conditioner,Consumer Durable,BrandA,450.34,New arrival
+560,Microwave,Electronics,BrandB,46.42,Budget friendly
+561,Smartwatch,Consumer Durable,BrandB,25.72,New arrival
+562,Milk,Apparel,BrandB,98.11,Budget friendly
+563,Rice,Daily Essentials,BrandC,294.16,High quality
+564,Microwave,Consumer Durable,BrandA,176.98,Best seller
+565,Toothpaste,Apparel,BrandB,60.13,High quality
+566,Shoes,Apparel,BrandD,484.05,Top rated
+567,Mouse,Consumer Durable,BrandC,105.51,Budget friendly
+568,Printer,Consumer Durable,BrandD,67.52,High quality
+569,Mouse,FMCG,BrandD,78.01,Budget friendly
+570,Microwave,Consumer Durable,BrandA,476.52,Budget friendly
+571,Juice,Electronics,BrandD,87.99,Best seller
+572,Milk,Apparel,BrandC,389.89,High quality
+573,Keyboard,FMCG,BrandA,217.21,High quality
+574,Jacket,Consumer Durable,BrandC,81.62,Best seller
+575,Washing Machine,Electronics,BrandA,103.05,Top rated
+576,Bread,Electronics,BrandC,272.81,New arrival
+577,Jeans,Electronics,BrandB,43.51,Budget friendly
+578,Shampoo,Consumer Durable,BrandD,117.58,Top rated
+579,Printer,FMCG,BrandD,299.43,Best seller
+580,Juice,Apparel,BrandB,74.36,New arrival
+581,Printer,FMCG,BrandB,499.83,Budget friendly
+582,Juice,Electronics,BrandC,128.63,New arrival
+583,Soap,Electronics,BrandC,102.91,New arrival
+584,Smartwatch,Daily Essentials,BrandA,83.5,High quality
+585,Rice,Consumer Durable,BrandD,347.46,Budget friendly
+586,Printer,Daily Essentials,BrandB,76.0,Budget friendly
+587,Soap,Electronics,BrandC,204.11,Top rated
+588,Smartphone,FMCG,BrandA,485.36,New arrival
+589,Printer,Apparel,BrandD,320.26,Budget friendly
+590,Mouse,Daily Essentials,BrandA,445.48,Top rated
+591,Air Conditioner,Daily Essentials,BrandD,150.94,Top rated
+592,Printer,Electronics,BrandD,320.29,Budget friendly
+593,Juice,FMCG,BrandA,406.01,Top rated
+594,Jacket,Daily Essentials,BrandD,198.25,Best seller
+595,Biscuits,Consumer Durable,BrandB,74.49,Top rated
+596,Printer,Daily Essentials,BrandA,210.2,New arrival
+597,Refrigerator,FMCG,BrandC,51.3,Top rated
+598,Laptop,Consumer Durable,BrandC,320.42,Top rated
+599,Milk,Daily Essentials,BrandB,208.7,High quality
+600,Keyboard,FMCG,BrandD,300.83,Best seller
+601,Headphones,Daily Essentials,BrandD,265.05,New arrival
+602,Soap,Electronics,BrandA,283.34,Best seller
+603,Headphones,Apparel,BrandC,337.49,New arrival
+604,Refrigerator,Consumer Durable,BrandC,410.46,Budget friendly
+605,Camera,Consumer Durable,BrandD,201.17,New arrival
+606,Vegetables,Daily Essentials,BrandC,196.97,Top rated
+607,Printer,Electronics,BrandC,471.45,High quality
+608,Washing Machine,FMCG,BrandB,71.31,High quality
+609,Air Conditioner,Consumer Durable,BrandA,450.34,New arrival
+610,Microwave,Electronics,BrandB,46.42,Budget friendly
+611,Smartwatch,Consumer Durable,BrandB,25.72,New arrival
+612,Milk,Apparel,BrandB,98.11,Budget friendly
+613,Rice,Daily Essentials,BrandC,294.16,High quality
+614,Microwave,Consumer Durable,BrandA,176.98,Best seller
+615,Toothpaste,Apparel,BrandB,60.13,High quality
+616,Shoes,Apparel,BrandD,484.05,Top rated
+617,Mouse,Consumer Durable,BrandC,105.51,Budget friendly
+618,Printer,Consumer Durable,BrandD,67.52,High quality
+619,Mouse,FMCG,BrandD,78.01,Budget friendly
+620,Microwave,Consumer Durable,BrandA,476.52,Budget friendly
+621,Juice,Electronics,BrandD,87.99,Best seller
+622,Milk,Apparel,BrandC,389.89,High quality
+623,Keyboard,FMCG,BrandA,217.21,High quality
+624,Jacket,Consumer Durable,BrandC,81.62,Best seller
+625,Washing Machine,Electronics,BrandA,103.05,Top rated
+626,Bread,Electronics,BrandC,272.81,New arrival
+627,Jeans,Electronics,BrandB,43.51,Budget friendly
+628,Shampoo,Consumer Durable,BrandD,117.58,Top rated
+629,Printer,FMCG,BrandD,299.43,Best seller
+630,Juice,Apparel,BrandB,74.36,New arrival
+631,Printer,FMCG,BrandB,499.83,Budget friendly
+632,Juice,Electronics,BrandC,128.63,New arrival
+633,Soap,Electronics,BrandC,102.91,New arrival
+634,Smartwatch,Daily Essentials,BrandA,83.5,High quality
+635,Rice,Consumer Durable,BrandD,347.46,Budget friendly
+636,Printer,Daily Essentials,BrandB,76.0,Budget friendly
+637,Soap,Electronics,BrandC,204.11,Top rated
+638,Smartphone,FMCG,BrandA,485.36,New arrival
+639,Printer,Apparel,BrandD,320.26,Budget friendly
+640,Mouse,Daily Essentials,BrandA,445.48,Top rated
+641,Air Conditioner,Daily Essentials,BrandD,150.94,Top rated
+642,Printer,Electronics,BrandD,320.29,Budget friendly
+643,Juice,FMCG,BrandA,406.01,Top rated
+644,Jacket,Daily Essentials,BrandD,198.25,Best seller
+645,Biscuits,Consumer Durable,BrandB,74.49,Top rated
+646,Printer,Daily Essentials,BrandA,210.2,New arrival
+647,Refrigerator,FMCG,BrandC,51.3,Top rated
+648,Laptop,Consumer Durable,BrandC,320.42,Top rated
+649,Milk,Daily Essentials,BrandB,208.7,High quality
+650,Keyboard,FMCG,BrandD,300.83,Best seller
+651,Headphones,Daily Essentials,BrandD,265.05,New arrival
+652,Soap,Electronics,BrandA,283.34,Best seller
+653,Headphones,Apparel,BrandC,337.49,New arrival
+654,Refrigerator,Consumer Durable,BrandC,410.46,Budget friendly
+655,Camera,Consumer Durable,BrandD,201.17,New arrival
+656,Vegetables,Daily Essentials,BrandC,196.97,Top rated
+657,Printer,Electronics,BrandC,471.45,High quality
+658,Washing Machine,FMCG,BrandB,71.31,High quality
+659,Air Conditioner,Consumer Durable,BrandA,450.34,New arrival
+660,Microwave,Electronics,BrandB,46.42,Budget friendly
+661,Smartwatch,Consumer Durable,BrandB,25.72,New arrival
+662,Milk,Apparel,BrandB,98.11,Budget friendly
+663,Rice,Daily Essentials,BrandC,294.16,High quality
+664,Microwave,Consumer Durable,BrandA,176.98,Best seller
+665,Toothpaste,Apparel,BrandB,60.13,High quality
+666,Shoes,Apparel,BrandD,484.05,Top rated
+667,Mouse,Consumer Durable,BrandC,105.51,Budget friendly
+668,Printer,Consumer Durable,BrandD,67.52,High quality
+669,Mouse,FMCG,BrandD,78.01,Budget friendly
+670,Microwave,Consumer Durable,BrandA,476.52,Budget friendly
+671,Juice,Electronics,BrandD,87.99,Best seller
+672,Milk,Apparel,BrandC,389.89,High quality
+673,Keyboard,FMCG,BrandA,217.21,High quality
+674,Jacket,Consumer Durable,BrandC,81.62,Best seller
+675,Washing Machine,Electronics,BrandA,103.05,Top rated
+676,Bread,Electronics,BrandC,272.81,New arrival
+677,Jeans,Electronics,BrandB,43.51,Budget friendly
+678,Shampoo,Consumer Durable,BrandD,117.58,Top rated
+679,Printer,FMCG,BrandD,299.43,Best seller
+680,Juice,Apparel,BrandB,74.36,New arrival
+681,Printer,FMCG,BrandB,499.83,Budget friendly
+682,Juice,Electronics,BrandC,128.63,New arrival
+683,Soap,Electronics,BrandC,102.91,New arrival
+684,Smartwatch,Daily Essentials,BrandA,83.5,High quality
+685,Rice,Consumer Durable,BrandD,347.46,Budget friendly
+686,Printer,Daily Essentials,BrandB,76.0,Budget friendly
+687,Soap,Electronics,BrandC,204.11,Top rated
+688,Smartphone,FMCG,BrandA,485.36,New arrival
+689,Printer,Apparel,BrandD,320.26,Budget friendly
+690,Mouse,Daily Essentials,BrandA,445.48,Top rated
+691,Air Conditioner,Daily Essentials,BrandD,150.94,Top rated
+692,Printer,Electronics,BrandD,320.29,Budget friendly
+693,Juice,FMCG,BrandA,406.01,Top rated
+694,Jacket,Daily Essentials,BrandD,198.25,Best seller
+695,Biscuits,Consumer Durable,BrandB,74.49,Top rated
+696,Printer,Daily Essentials,BrandA,210.2,New arrival
+697,Refrigerator,FMCG,BrandC,51.3,Top rated
+698,Laptop,Consumer Durable,BrandC,320.42,Top rated
+699,Milk,Daily Essentials,BrandB,208.7,High quality
+700,Keyboard,FMCG,BrandD,300.83,Best seller
+701,Headphones,Daily Essentials,BrandD,265.05,New arrival
+702,Soap,Electronics,BrandA,283.34,Best seller
+703,Headphones,Apparel,BrandC,337.49,New arrival
+704,Refrigerator,Consumer Durable,BrandC,410.46,Budget friendly
+705,Camera,Consumer Durable,BrandD,201.17,New arrival
+706,Vegetables,Daily Essentials,BrandC,196.97,Top rated
+707,Printer,Electronics,BrandC,471.45,High quality
+708,Washing Machine,FMCG,BrandB,71.31,High quality
+709,Air Conditioner,Consumer Durable,BrandA,450.34,New arrival
+710,Microwave,Electronics,BrandB,46.42,Budget friendly
+711,Smartwatch,Consumer Durable,BrandB,25.72,New arrival
+712,Milk,Apparel,BrandB,98.11,Budget friendly
+713,Rice,Daily Essentials,BrandC,294.16,High quality
+714,Microwave,Consumer Durable,BrandA,176.98,Best seller
+715,Toothpaste,Apparel,BrandB,60.13,High quality
+716,Shoes,Apparel,BrandD,484.05,Top rated
+717,Mouse,Consumer Durable,BrandC,105.51,Budget friendly
+718,Printer,Consumer Durable,BrandD,67.52,High quality
+719,Mouse,FMCG,BrandD,78.01,Budget friendly
+720,Microwave,Consumer Durable,BrandA,476.52,Budget friendly
+721,Juice,Electronics,BrandD,87.99,Best seller
+722,Milk,Apparel,BrandC,389.89,High quality
+723,Keyboard,FMCG,BrandA,217.21,High quality
+724,Jacket,Consumer Durable,BrandC,81.62,Best seller
+725,Washing Machine,Electronics,BrandA,103.05,Top rated
+726,Bread,Electronics,BrandC,272.81,New arrival
+727,Jeans,Electronics,BrandB,43.51,Budget friendly
+728,Shampoo,Consumer Durable,BrandD,117.58,Top rated
+729,Printer,FMCG,BrandD,299.43,Best seller
+730,Juice,Apparel,BrandB,74.36,New arrival
+731,Printer,FMCG,BrandB,499.83,Budget friendly
+732,Juice,Electronics,BrandC,128.63,New arrival
+733,Soap,Electronics,BrandC,102.91,New arrival
+734,Smartwatch,Daily Essentials,BrandA,83.5,High quality
+735,Rice,Consumer Durable,BrandD,347.46,Budget friendly
+736,Printer,Daily Essentials,BrandB,76.0,Budget friendly
+737,Soap,Electronics,BrandC,204.11,Top rated
+738,Smartphone,FMCG,BrandA,485.36,New arrival
+739,Printer,Apparel,BrandD,320.26,Budget friendly
+740,Mouse,Daily Essentials,BrandA,445.48,Top rated
+741,Air Conditioner,Daily Essentials,BrandD,150.94,Top rated
+742,Printer,Electronics,BrandD,320.29,Budget friendly
+743,Juice,FMCG,BrandA,406.01,Top rated
+744,Jacket,Daily Essentials,BrandD,198.25,Best seller
+745,Biscuits,Consumer Durable,BrandB,74.49,Top rated
+746,Printer,Daily Essentials,BrandA,210.2,New arrival
+747,Refrigerator,FMCG,BrandC,51.3,Top rated
+748,Laptop,Consumer Durable,BrandC,320.42,Top rated
+749,Milk,Daily Essentials,BrandB,208.7,High quality
+750,Keyboard,FMCG,BrandD,300.83,Best seller
+751,Headphones,Daily Essentials,BrandD,265.05,New arrival
+752,Soap,Electronics,BrandA,283.34,Best seller
+753,Headphones,Apparel,BrandC,337.49,New arrival
+754,Refrigerator,Consumer Durable,BrandC,410.46,Budget friendly
+755,Camera,Consumer Durable,BrandD,201.17,New arrival
+756,Vegetables,Daily Essentials,BrandC,196.97,Top rated
+757,Printer,Electronics,BrandC,471.45,High quality
+758,Washing Machine,FMCG,BrandB,71.31,High quality
+759,Air Conditioner,Consumer Durable,BrandA,450.34,New arrival
+760,Microwave,Electronics,BrandB,46.42,Budget friendly
+761,Smartwatch,Consumer Durable,BrandB,25.72,New arrival
+762,Milk,Apparel,BrandB,98.11,Budget friendly
+763,Rice,Daily Essentials,BrandC,294.16,High quality
+764,Microwave,Consumer Durable,BrandA,176.98,Best seller
+765,Toothpaste,Apparel,BrandB,60.13,High quality
+766,Shoes,Apparel,BrandD,484.05,Top rated
+767,Mouse,Consumer Durable,BrandC,105.51,Budget friendly
+768,Printer,Consumer Durable,BrandD,67.52,High quality
+769,Mouse,FMCG,BrandD,78.01,Budget friendly
+770,Microwave,Consumer Durable,BrandA,476.52,Budget friendly
+771,Juice,Electronics,BrandD,87.99,Best seller
+772,Milk,Apparel,BrandC,389.89,High quality
+773,Keyboard,FMCG,BrandA,217.21,High quality
+774,Jacket,Consumer Durable,BrandC,81.62,Best seller
+775,Washing Machine,Electronics,BrandA,103.05,Top rated
+776,Bread,Electronics,BrandC,272.81,New arrival
+777,Jeans,Electronics,BrandB,43.51,Budget friendly
+778,Shampoo,Consumer Durable,BrandD,117.58,Top rated
+779,Printer,FMCG,BrandD,299.43,Best seller
+780,Juice,Apparel,BrandB,74.36,New arrival
+781,Printer,FMCG,BrandB,499.83,Budget friendly
+782,Juice,Electronics,BrandC,128.63,New arrival
+783,Soap,Electronics,BrandC,102.91,New arrival
+784,Smartwatch,Daily Essentials,BrandA,83.5,High quality
+785,Rice,Consumer Durable,BrandD,347.46,Budget friendly
+786,Printer,Daily Essentials,BrandB,76.0,Budget friendly
+787,Soap,Electronics,BrandC,204.11,Top rated
+788,Smartphone,FMCG,BrandA,485.36,New arrival
+789,Printer,Apparel,BrandD,320.26,Budget friendly
+790,Mouse,Daily Essentials,BrandA,445.48,Top rated
+791,Air Conditioner,Daily Essentials,BrandD,150.94,Top rated
+792,Printer,Electronics,BrandD,320.29,Budget friendly
+793,Juice,FMCG,BrandA,406.01,Top rated
+794,Jacket,Daily Essentials,BrandD,198.25,Best seller
+795,Biscuits,Consumer Durable,BrandB,74.49,Top rated
+796,Printer,Daily Essentials,BrandA,210.2,New arrival
+797,Refrigerator,FMCG,BrandC,51.3,Top rated
+798,Laptop,Consumer Durable,BrandC,320.42,Top rated
+799,Milk,Daily Essentials,BrandB,208.7,High quality
+800,Keyboard,FMCG,BrandD,300.83,Best seller
+801,Headphones,Daily Essentials,BrandD,265.05,New arrival
+802,Soap,Electronics,BrandA,283.34,Best seller
+803,Headphones,Apparel,BrandC,337.49,New arrival
+804,Refrigerator,Consumer Durable,BrandC,410.46,Budget friendly
+805,Camera,Consumer Durable,BrandD,201.17,New arrival
+806,Vegetables,Daily Essentials,BrandC,196.97,Top rated
+807,Printer,Electronics,BrandC,471.45,High quality
+808,Washing Machine,FMCG,BrandB,71.31,High quality
+809,Air Conditioner,Consumer Durable,BrandA,450.34,New arrival
+810,Microwave,Electronics,BrandB,46.42,Budget friendly
+811,Smartwatch,Consumer Durable,BrandB,25.72,New arrival
+812,Milk,Apparel,BrandB,98.11,Budget friendly
+813,Rice,Daily Essentials,BrandC,294.16,High quality
+814,Microwave,Consumer Durable,BrandA,176.98,Best seller
+815,Toothpaste,Apparel,BrandB,60.13,High quality
+816,Shoes,Apparel,BrandD,484.05,Top rated
+817,Mouse,Consumer Durable,BrandC,105.51,Budget friendly
+818,Printer,Consumer Durable,BrandD,67.52,High quality
+819,Mouse,FMCG,BrandD,78.01,Budget friendly
+820,Microwave,Consumer Durable,BrandA,476.52,Budget friendly
+821,Juice,Electronics,BrandD,87.99,Best seller
+822,Milk,Apparel,BrandC,389.89,High quality
+823,Keyboard,FMCG,BrandA,217.21,High quality
+824,Jacket,Consumer Durable,BrandC,81.62,Best seller
+825,Washing Machine,Electronics,BrandA,103.05,Top rated
+826,Bread,Electronics,BrandC,272.81,New arrival
+827,Jeans,Electronics,BrandB,43.51,Budget friendly
+828,Shampoo,Consumer Durable,BrandD,117.58,Top rated
+829,Printer,FMCG,BrandD,299.43,Best seller
+830,Juice,Apparel,BrandB,74.36,New arrival
+831,Printer,FMCG,BrandB,499.83,Budget friendly
+832,Juice,Electronics,BrandC,128.63,New arrival
+833,Soap,Electronics,BrandC,102.91,New arrival
+834,Smartwatch,Daily Essentials,BrandA,83.5,High quality
+835,Rice,Consumer Durable,BrandD,347.46,Budget friendly
+836,Printer,Daily Essentials,BrandB,76.0,Budget friendly
+837,Soap,Electronics,BrandC,204.11,Top rated
+838,Smartphone,FMCG,BrandA,485.36,New arrival
+839,Printer,Apparel,BrandD,320.26,Budget friendly
+840,Mouse,Daily Essentials,BrandA,445.48,Top rated
+841,Air Conditioner,Daily Essentials,BrandD,150.94,Top rated
+842,Printer,Electronics,BrandD,320.29,Budget friendly
+843,Juice,FMCG,BrandA,406.01,Top rated
+844,Jacket,Daily Essentials,BrandD,198.25,Best seller
+845,Biscuits,Consumer Durable,BrandB,74.49,Top rated
+846,Printer,Daily Essentials,BrandA,210.2,New arrival
+847,Refrigerator,FMCG,BrandC,51.3,Top rated
+848,Laptop,Consumer Durable,BrandC,320.42,Top rated
+849,Milk,Daily Essentials,BrandB,208.7,High quality
+850,Keyboard,FMCG,BrandD,300.83,Best seller
+851,Headphones,Daily Essentials,BrandD,265.05,New arrival
+852,Soap,Electronics,BrandA,283.34,Best seller
+853,Headphones,Apparel,BrandC,337.49,New arrival
+854,Refrigerator,Consumer Durable,BrandC,410.46,Budget friendly
+855,Camera,Consumer Durable,BrandD,201.17,New arrival
+856,Vegetables,Daily Essentials,BrandC,196.97,Top rated
+857,Printer,Electronics,BrandC,471.45,High quality
+858,Washing Machine,FMCG,BrandB,71.31,High quality
+859,Air Conditioner,Consumer Durable,BrandA,450.34,New arrival
+860,Microwave,Electronics,BrandB,46.42,Budget friendly
+861,Smartwatch,Consumer Durable,BrandB,25.72,New arrival
+862,Milk,Apparel,BrandB,98.11,Budget friendly
+863,Rice,Daily Essentials,BrandC,294.16,High quality
+864,Microwave,Consumer Durable,BrandA,176.98,Best seller
+865,Toothpaste,Apparel,BrandB,60.13,High quality
+866,Shoes,Apparel,BrandD,484.05,Top rated
+867,Mouse,Consumer Durable,BrandC,105.51,Budget friendly
+868,Printer,Consumer Durable,BrandD,67.52,High quality
+869,Mouse,FMCG,BrandD,78.01,Budget friendly
+870,Microwave,Consumer Durable,BrandA,476.52,Budget friendly
+871,Juice,Electronics,BrandD,87.99,Best seller
+872,Milk,Apparel,BrandC,389.89,High quality
+873,Keyboard,FMCG,BrandA,217.21,High quality
+874,Jacket,Consumer Durable,BrandC,81.62,Best seller
+875,Washing Machine,Electronics,BrandA,103.05,Top rated
+876,Bread,Electronics,BrandC,272.81,New arrival
+877,Jeans,Electronics,BrandB,43.51,Budget friendly
+878,Shampoo,Consumer Durable,BrandD,117.58,Top rated
+879,Printer,FMCG,BrandD,299.43,Best seller
+880,Juice,Apparel,BrandB,74.36,New arrival
+881,Printer,FMCG,BrandB,499.83,Budget friendly
+882,Juice,Electronics,BrandC,128.63,New arrival
+883,Soap,Electronics,BrandC,102.91,New arrival
+884,Smartwatch,Daily Essentials,BrandA,83.5,High quality
+885,Rice,Consumer Durable,BrandD,347.46,Budget friendly
+886,Printer,Daily Essentials,BrandB,76.0,Budget friendly
+887,Soap,Electronics,BrandC,204.11,Top rated
+888,Smartphone,FMCG,BrandA,485.36,New arrival
+889,Printer,Apparel,BrandD,320.26,Budget friendly
+890,Mouse,Daily Essentials,BrandA,445.48,Top rated
+891,Air Conditioner,Daily Essentials,BrandD,150.94,Top rated
+892,Printer,Electronics,BrandD,320.29,Budget friendly
+893,Juice,FMCG,BrandA,406.01,Top rated
+894,Jacket,Daily Essentials,BrandD,198.25,Best seller
+895,Biscuits,Consumer Durable,BrandB,74.49,Top rated
+896,Printer,Daily Essentials,BrandA,210.2,New arrival
+897,Refrigerator,FMCG,BrandC,51.3,Top rated
+898,Laptop,Consumer Durable,BrandC,320.42,Top rated
+899,Milk,Daily Essentials,BrandB,208.7,High quality
+900,Keyboard,FMCG,BrandD,300.83,Best seller
+901,Headphones,Daily Essentials,BrandD,265.05,New arrival
+902,Soap,Electronics,BrandA,283.34,Best seller
+903,Headphones,Apparel,BrandC,337.49,New arrival
+904,Refrigerator,Consumer Durable,BrandC,410.46,Budget friendly
+905,Camera,Consumer Durable,BrandD,201.17,New arrival
+906,Vegetables,Daily Essentials,BrandC,196.97,Top rated
+907,Printer,Electronics,BrandC,471.45,High quality
+908,Washing Machine,FMCG,BrandB,71.31,High quality
+909,Air Conditioner,Consumer Durable,BrandA,450.34,New arrival
+910,Microwave,Electronics,BrandB,46.42,Budget friendly
+911,Smartwatch,Consumer Durable,BrandB,25.72,New arrival
+912,Milk,Apparel,BrandB,98.11,Budget friendly
+913,Rice,Daily Essentials,BrandC,294.16,High quality
+914,Microwave,Consumer Durable,BrandA,176.98,Best seller
+915,Toothpaste,Apparel,BrandB,60.13,High quality
+916,Shoes,Apparel,BrandD,484.05,Top rated
+917,Mouse,Consumer Durable,BrandC,105.51,Budget friendly
+918,Printer,Consumer Durable,BrandD,67.52,High quality
+919,Mouse,FMCG,BrandD,78.01,Budget friendly
+920,Microwave,Consumer Durable,BrandA,476.52,Budget friendly
+921,Juice,Electronics,BrandD,87.99,Best seller
+922,Milk,Apparel,BrandC,389.89,High quality
+923,Keyboard,FMCG,BrandA,217.21,High quality
+924,Jacket,Consumer Durable,BrandC,81.62,Best seller
+925,Washing Machine,Electronics,BrandA,103.05,Top rated
+926,Bread,Electronics,BrandC,272.81,New arrival
+927,Jeans,Electronics,BrandB,43.51,Budget friendly
+928,Shampoo,Consumer Durable,BrandD,117.58,Top rated
+929,Printer,FMCG,BrandD,299.43,Best seller
+930,Juice,Apparel,BrandB,74.36,New arrival
+931,Printer,FMCG,BrandB,499.83,Budget friendly
+932,Juice,Electronics,BrandC,128.63,New arrival
+933,Soap,Electronics,BrandC,102.91,New arrival
+934,Smartwatch,Daily Essentials,BrandA,83.5,High quality
+935,Rice,Consumer Durable,BrandD,347.46,Budget friendly
+936,Printer,Daily Essentials,BrandB,76.0,Budget friendly
+937,Soap,Electronics,BrandC,204.11,Top rated
+938,Smartphone,FMCG,BrandA,485.36,New arrival
+939,Printer,Apparel,BrandD,320.26,Budget friendly
+940,Mouse,Daily Essentials,BrandA,445.48,Top rated
+941,Air Conditioner,Daily Essentials,BrandD,150.94,Top rated
+942,Printer,Electronics,BrandD,320.29,Budget friendly
+943,Juice,FMCG,BrandA,406.01,Top rated
+944,Jacket,Daily Essentials,BrandD,198.25,Best seller
+945,Biscuits,Consumer Durable,BrandB,74.49,Top rated
+946,Printer,Daily Essentials,BrandA,210.2,New arrival
+947,Refrigerator,FMCG,BrandC,51.3,Top rated
+948,Laptop,Consumer Durable,BrandC,320.42,Top rated
+949,Milk,Daily Essentials,BrandB,208.7,High quality
+950,Keyboard,FMCG,BrandD,300.83,Best seller
+951,Headphones,Daily Essentials,BrandD,265.05,New arrival
+952,Soap,Electronics,BrandA,283.34,Best seller
+953,Headphones,Apparel,BrandC,337.49,New arrival
+954,Refrigerator,Consumer Durable,BrandC,410.46,Budget friendly
+955,Camera,Consumer Durable,BrandD,201.17,New arrival
+956,Vegetables,Daily Essentials,BrandC,196.97,Top rated
+957,Printer,Electronics,BrandC,471.45,High quality
+958,Washing Machine,FMCG,BrandB,71.31,High quality
+959,Air Conditioner,Consumer Durable,BrandA,450.34,New arrival
+960,Microwave,Electronics,BrandB,46.42,Budget friendly
+961,Smartwatch,Consumer Durable,BrandB,25.72,New arrival
+962,Milk,Apparel,BrandB,98.11,Budget friendly
+963,Rice,Daily Essentials,BrandC,294.16,High quality
+964,Microwave,Consumer Durable,BrandA,176.98,Best seller
+965,Toothpaste,Apparel,BrandB,60.13,High quality
+966,Shoes,Apparel,BrandD,484.05,Top rated
+967,Mouse,Consumer Durable,BrandC,105.51,Budget friendly
+968,Printer,Consumer Durable,BrandD,67.52,High quality
+969,Mouse,FMCG,BrandD,78.01,Budget friendly
+970,Microwave,Consumer Durable,BrandA,476.52,Budget friendly
+971,Juice,Electronics,BrandD,87.99,Best seller
+972,Milk,Apparel,BrandC,389.89,High quality
+973,Keyboard,FMCG,BrandA,217.21,High quality
+974,Jacket,Consumer Durable,BrandC,81.62,Best seller
+975,Washing Machine,Electronics,BrandA,103.05,Top rated
+976,Bread,Electronics,BrandC,272.81,New arrival
+977,Jeans,Electronics,BrandB,43.51,Budget friendly
+978,Shampoo,Consumer Durable,BrandD,117.58,Top rated
+979,Printer,FMCG,BrandD,299.43,Best seller
+980,Juice,Apparel,BrandB,74.36,New arrival
+981,Printer,FMCG,BrandB,499.83,Budget friendly
+982,Juice,Electronics,BrandC,128.63,New arrival
+983,Soap,Electronics,BrandC,102.91,New arrival
+984,Smartwatch,Daily Essentials,BrandA,83.5,High quality
+985,Rice,Consumer Durable,BrandD,347.46,Budget friendly
+986,Printer,Daily Essentials,BrandB,76.0,Budget friendly
+987,Soap,Electronics,BrandC,204.11,Top rated
+988,Smartphone,FMCG,BrandA,485.36,New arrival
+989,Printer,Apparel,BrandD,320.26,Budget friendly
+990,Mouse,Daily Essentials,BrandA,445.48,Top rated
+991,Air Conditioner,Daily Essentials,BrandD,150.94,Top rated
+992,Printer,Electronics,BrandD,320.29,Budget friendly
+993,Juice,FMCG,BrandA,406.01,Top rated
+994,Jacket,Daily Essentials,BrandD,198.25,Best seller
+995,Biscuits,Consumer Durable,BrandB,74.49,Top rated
+996,Printer,Daily Essentials,BrandA,210.2,New arrival
+997,Refrigerator,FMCG,BrandC,51.3,Top rated
+998,Laptop,Consumer Durable,BrandC,320.42,Top rated
+999,Milk,Daily Essentials,BrandB,208.7,High quality
+1000,Keyboard,FMCG,BrandD,300.83,Best seller
+1001,Headphones,Daily Essentials,BrandD,265.05,New arrival
+1002,Soap,Electronics,BrandA,283.34,Best seller
+1003,Headphones,Apparel,BrandC,337.49,New arrival
+1004,Refrigerator,Consumer Durable,BrandC,410.46,Budget friendly
+1005,Camera,Consumer Durable,BrandD,201.17,New arrival
+1006,Vegetables,Daily Essentials,BrandC,196.97,Top rated
+1007,Printer,Electronics,BrandC,471.45,High quality
+1008,Washing Machine,FMCG,BrandB,71.31,High quality
+1009,Air Conditioner,Consumer Durable,BrandA,450.34,New arrival
+1010,Microwave,Electronics,BrandB,46.42,Budget friendly
+1011,Smartwatch,Consumer Durable,BrandB,25.72,New arrival
+1012,Milk,Apparel,BrandB,98.11,Budget friendly
+1013,Rice,Daily Essentials,BrandC,294.16,High quality
+1014,Microwave,Consumer Durable,BrandA,176.98,Best seller
+1015,Toothpaste,Apparel,BrandB,60.13,High quality
+1016,Shoes,Apparel,BrandD,484.05,Top rated
+1017,Mouse,Consumer Durable,BrandC,105.51,Budget friendly
+1018,Printer,Consumer Durable,BrandD,67.52,High quality
+1019,Mouse,FMCG,BrandD,78.01,Budget friendly
+1020,Microwave,Consumer Durable,BrandA,476.52,Budget friendly
+1021,Juice,Electronics,BrandD,87.99,Best seller
+1022,Milk,Apparel,BrandC,389.89,High quality
+1023,Keyboard,FMCG,BrandA,217.21,High quality
+1024,Jacket,Consumer Durable,BrandC,81.62,Best seller
+1025,Washing Machine,Electronics,BrandA,103.05,Top rated
+1026,Bread,Electronics,BrandC,272.81,New arrival
+1027,Jeans,Electronics,BrandB,43.51,Budget friendly
+1028,Shampoo,Consumer Durable,BrandD,117.58,Top rated
+1029,Printer,FMCG,BrandD,299.43,Best seller
+1030,Juice,Apparel,BrandB,74.36,New arrival
+1031,Printer,FMCG,BrandB,499.83,Budget friendly
+1032,Juice,Electronics,BrandC,128.63,New arrival
+1033,Soap,Electronics,BrandC,102.91,New arrival
+1034,Smartwatch,Daily Essentials,BrandA,83.5,High quality
+1035,Rice,Consumer Durable,BrandD,347.46,Budget friendly
+1036,Printer,Daily Essentials,BrandB,76.0,Budget friendly
+1037,Soap,Electronics,BrandC,204.11,Top rated
+1038,Smartphone,FMCG,BrandA,485.36,New arrival
+1039,Printer,Apparel,BrandD,320.26,Budget friendly
+1040,Mouse,Daily Essentials,BrandA,445.48,Top rated
+1041,Air Conditioner,Daily Essentials,BrandD,150.94,Top rated
+1042,Printer,Electronics,BrandD,320.29,Budget friendly
+1043,Juice,FMCG,BrandA,406.01,Top rated
+1044,Jacket,Daily Essentials,BrandD,198.25,Best seller
+1045,Biscuits,Consumer Durable,BrandB,74.49,Top rated
+1046,Printer,Daily Essentials,BrandA,210.2,New arrival
+1047,Refrigerator,FMCG,BrandC,51.3,Top rated
+1048,Laptop,Consumer Durable,BrandC,320.42,Top rated
+1049,Milk,Daily Essentials,BrandB,208.7,High quality
+1050,Keyboard,FMCG,BrandD,300.83,Best seller
+1051,Headphones,Daily Essentials,BrandD,265.05,New arrival
+1052,Soap,Electronics,BrandA,283.34,Best seller
+1053,Headphones,Apparel,BrandC,337.49,New arrival
+1054,Refrigerator,Consumer Durable,BrandC,410.46,Budget friendly
+1055,Camera,Consumer Durable,BrandD,201.17,New arrival
+1056,Vegetables,Daily Essentials,BrandC,196.97,Top rated
+1057,Printer,Electronics,BrandC,471.45,High quality
+1058,Washing Machine,FMCG,BrandB,71.31,High quality
+1059,Air Conditioner,Consumer Durable,BrandA,450.34,New arrival
+1060,Microwave,Electronics,BrandB,46.42,Budget friendly
+1061,Smartwatch,Consumer Durable,BrandB,25.72,New arrival
+1062,Milk,Apparel,BrandB,98.11,Budget friendly
+1063,Rice,Daily Essentials,BrandC,294.16,High quality
+1064,Microwave,Consumer Durable,BrandA,176.98,Best seller
+1065,Toothpaste,Apparel,BrandB,60.13,High quality
+1066,Shoes,Apparel,BrandD,484.05,Top rated
+1067,Mouse,Consumer Durable,BrandC,105.51,Budget friendly
+1068,Printer,Consumer Durable,BrandD,67.52,High quality
+1069,Mouse,FMCG,BrandD,78.01,Budget friendly
+1070,Microwave,Consumer Durable,BrandA,476.52,Budget friendly
+1071,Juice,Electronics,BrandD,87.99,Best seller
+1072,Milk,Apparel,BrandC,389.89,High quality
+1073,Keyboard,FMCG,BrandA,217.21,High quality
+1074,Jacket,Consumer Durable,BrandC,81.62,Best seller
+1075,Washing Machine,Electronics,BrandA,103.05,Top rated
+1076,Bread,Electronics,BrandC,272.81,New arrival
+1077,Jeans,Electronics,BrandB,43.51,Budget friendly
+1078,Shampoo,Consumer Durable,BrandD,117.58,Top rated
+1079,Printer,FMCG,BrandD,299.43,Best seller
+1080,Juice,Apparel,BrandB,74.36,New arrival
+1081,Printer,FMCG,BrandB,499.83,Budget friendly
+1082,Juice,Electronics,BrandC,128.63,New arrival
+1083,Soap,Electronics,BrandC,102.91,New arrival
+1084,Smartwatch,Daily Essentials,BrandA,83.5,High quality
+1085,Rice,Consumer Durable,BrandD,347.46,Budget friendly
+1086,Printer,Daily Essentials,BrandB,76.0,Budget friendly
+1087,Soap,Electronics,BrandC,204.11,Top rated
+1088,Smartphone,FMCG,BrandA,485.36,New arrival
+1089,Printer,Apparel,BrandD,320.26,Budget friendly
+1090,Mouse,Daily Essentials,BrandA,445.48,Top rated
+1091,Air Conditioner,Daily Essentials,BrandD,150.94,Top rated
+1092,Printer,Electronics,BrandD,320.29,Budget friendly
+1093,Juice,FMCG,BrandA,406.01,Top rated
+1094,Jacket,Daily Essentials,BrandD,198.25,Best seller
+1095,Biscuits,Consumer Durable,BrandB,74.49,Top rated
+1096,Printer,Daily Essentials,BrandA,210.2,New arrival
+1097,Refrigerator,FMCG,BrandC,51.3,Top rated
+1098,Laptop,Consumer Durable,BrandC,320.42,Top rated
+1099,Milk,Daily Essentials,BrandB,208.7,High quality
+1100,Keyboard,FMCG,BrandD,300.83,Best seller
+1101,Headphones,Daily Essentials,BrandD,265.05,New arrival
+1102,Soap,Electronics,BrandA,283.34,Best seller
+1103,Headphones,Apparel,BrandC,337.49,New arrival
+1104,Refrigerator,Consumer Durable,BrandC,410.46,Budget friendly
+1105,Camera,Consumer Durable,BrandD,201.17,New arrival
+1106,Vegetables,Daily Essentials,BrandC,196.97,Top rated
+1107,Printer,Electronics,BrandC,471.45,High quality
+1108,Washing Machine,FMCG,BrandB,71.31,High quality
+1109,Air Conditioner,Consumer Durable,BrandA,450.34,New arrival
+1110,Microwave,Electronics,BrandB,46.42,Budget friendly
+1111,Smartwatch,Consumer Durable,BrandB,25.72,New arrival
+1112,Milk,Apparel,BrandB,98.11,Budget friendly
+1113,Rice,Daily Essentials,BrandC,294.16,High quality
+1114,Microwave,Consumer Durable,BrandA,176.98,Best seller
+1115,Toothpaste,Apparel,BrandB,60.13,High quality
+1116,Shoes,Apparel,BrandD,484.05,Top rated
+1117,Mouse,Consumer Durable,BrandC,105.51,Budget friendly
+1118,Printer,Consumer Durable,BrandD,67.52,High quality
+1119,Mouse,FMCG,BrandD,78.01,Budget friendly
+1120,Microwave,Consumer Durable,BrandA,476.52,Budget friendly
+1121,Juice,Electronics,BrandD,87.99,Best seller
+1122,Milk,Apparel,BrandC,389.89,High quality
+1123,Keyboard,FMCG,BrandA,217.21,High quality
+1124,Jacket,Consumer Durable,BrandC,81.62,Best seller
+1125,Washing Machine,Electronics,BrandA,103.05,Top rated
+1126,Bread,Electronics,BrandC,272.81,New arrival
+1127,Jeans,Electronics,BrandB,43.51,Budget friendly
+1128,Shampoo,Consumer Durable,BrandD,117.58,Top rated
+1129,Printer,FMCG,BrandD,299.43,Best seller
+1130,Juice,Apparel,BrandB,74.36,New arrival
+1131,Printer,FMCG,BrandB,499.83,Budget friendly
+1132,Juice,Electronics,BrandC,128.63,New arrival
+1133,Soap,Electronics,BrandC,102.91,New arrival
+1134,Smartwatch,Daily Essentials,BrandA,83.5,High quality
+1135,Rice,Consumer Durable,BrandD,347.46,Budget friendly
+1136,Printer,Daily Essentials,BrandB,76.0,Budget friendly
+1137,Soap,Electronics,BrandC,204.11,Top rated
+1138,Smartphone,FMCG,BrandA,485.36,New arrival
+1139,Printer,Apparel,BrandD,320.26,Budget friendly
+1140,Mouse,Daily Essentials,BrandA,445.48,Top rated
+1141,Air Conditioner,Daily Essentials,BrandD,150.94,Top rated
+1142,Printer,Electronics,BrandD,320.29,Budget friendly
+1143,Juice,FMCG,BrandA,406.01,Top rated
+1144,Jacket,Daily Essentials,BrandD,198.25,Best seller
+1145,Biscuits,Consumer Durable,BrandB,74.49,Top rated
+1146,Printer,Daily Essentials,BrandA,210.2,New arrival
+1147,Refrigerator,FMCG,BrandC,51.3,Top rated
+1148,Laptop,Consumer Durable,BrandC,320.42,Top rated
+1149,Milk,Daily Essentials,BrandB,208.7,High quality
+1150,Keyboard,FMCG,BrandD,300.83,Best seller
+1151,Headphones,Daily Essentials,BrandD,265.05,New arrival
+1152,Soap,Electronics,BrandA,283.34,Best seller
+1153,Headphones,Apparel,BrandC,337.49,New arrival
+1154,Refrigerator,Consumer Durable,BrandC,410.46,Budget friendly
+1155,Camera,Consumer Durable,BrandD,201.17,New arrival
+1156,Vegetables,Daily Essentials,BrandC,196.97,Top rated
+1157,Printer,Electronics,BrandC,471.45,High quality
+1158,Washing Machine,FMCG,BrandB,71.31,High quality
+1159,Air Conditioner,Consumer Durable,BrandA,450.34,New arrival
+1160,Microwave,Electronics,BrandB,46.42,Budget friendly
+1161,Smartwatch,Consumer Durable,BrandB,25.72,New arrival
+1162,Milk,Apparel,BrandB,98.11,Budget friendly
+1163,Rice,Daily Essentials,BrandC,294.16,High quality
+1164,Microwave,Consumer Durable,BrandA,176.98,Best seller
+1165,Toothpaste,Apparel,BrandB,60.13,High quality
+1166,Shoes,Apparel,BrandD,484.05,Top rated
+1167,Mouse,Consumer Durable,BrandC,105.51,Budget friendly
+1168,Printer,Consumer Durable,BrandD,67.52,High quality
+1169,Mouse,FMCG,BrandD,78.01,Budget friendly
+1170,Microwave,Consumer Durable,BrandA,476.52,Budget friendly
+1171,Juice,Electronics,BrandD,87.99,Best seller
+1172,Milk,Apparel,BrandC,389.89,High quality
+1173,Keyboard,FMCG,BrandA,217.21,High quality
+1174,Jacket,Consumer Durable,BrandC,81.62,Best seller
+1175,Washing Machine,Electronics,BrandA,103.05,Top rated
+1176,Bread,Electronics,BrandC,272.81,New arrival
+1177,Jeans,Electronics,BrandB,43.51,Budget friendly
+1178,Shampoo,Consumer Durable,BrandD,117.58,Top rated
+1179,Printer,FMCG,BrandD,299.43,Best seller
+1180,Juice,Apparel,BrandB,74.36,New arrival
+1181,Printer,FMCG,BrandB,499.83,Budget friendly
+1182,Juice,Electronics,BrandC,128.63,New arrival
+1183,Soap,Electronics,BrandC,102.91,New arrival
+1184,Smartwatch,Daily Essentials,BrandA,83.5,High quality
+1185,Rice,Consumer Durable,BrandD,347.46,Budget friendly
+1186,Printer,Daily Essentials,BrandB,76.0,Budget friendly
+1187,Soap,Electronics,BrandC,204.11,Top rated
+1188,Smartphone,FMCG,BrandA,485.36,New arrival
+1189,Printer,Apparel,BrandD,320.26,Budget friendly
+1190,Mouse,Daily Essentials,BrandA,445.48,Top rated
+1191,Air Conditioner,Daily Essentials,BrandD,150.94,Top rated
+1192,Printer,Electronics,BrandD,320.29,Budget friendly
+1193,Juice,FMCG,BrandA,406.01,Top rated
+1194,Jacket,Daily Essentials,BrandD,198.25,Best seller
+1195,Biscuits,Consumer Durable,BrandB,74.49,Top rated
+1196,Printer,Daily Essentials,BrandA,210.2,New arrival
+1197,Refrigerator,FMCG,BrandC,51.3,Top rated
+1198,Laptop,Consumer Durable,BrandC,320.42,Top rated
+1199,Milk,Daily Essentials,BrandB,208.7,High quality
+1200,Keyboard,FMCG,BrandD,300.83,Best seller
+1201,Headphones,Daily Essentials,BrandD,265.05,New arrival
+1202,Soap,Electronics,BrandA,283.34,Best seller
+1203,Headphones,Apparel,BrandC,337.49,New arrival
+1204,Refrigerator,Consumer Durable,BrandC,410.46,Budget friendly
+1205,Camera,Consumer Durable,BrandD,201.17,New arrival
+1206,Vegetables,Daily Essentials,BrandC,196.97,Top rated
+1207,Printer,Electronics,BrandC,471.45,High quality
+1208,Washing Machine,FMCG,BrandB,71.31,High quality
+1209,Air Conditioner,Consumer Durable,BrandA,450.34,New arrival
+1210,Microwave,Electronics,BrandB,46.42,Budget friendly
+1211,Smartwatch,Consumer Durable,BrandB,25.72,New arrival
+1212,Milk,Apparel,BrandB,98.11,Budget friendly
+1213,Rice,Daily Essentials,BrandC,294.16,High quality
+1214,Microwave,Consumer Durable,BrandA,176.98,Best seller
+1215,Toothpaste,Apparel,BrandB,60.13,High quality
+1216,Shoes,Apparel,BrandD,484.05,Top rated
+1217,Mouse,Consumer Durable,BrandC,105.51,Budget friendly
+1218,Printer,Consumer Durable,BrandD,67.52,High quality
+1219,Mouse,FMCG,BrandD,78.01,Budget friendly
+1220,Microwave,Consumer Durable,BrandA,476.52,Budget friendly
+1221,Juice,Electronics,BrandD,87.99,Best seller
+1222,Milk,Apparel,BrandC,389.89,High quality
+1223,Keyboard,FMCG,BrandA,217.21,High quality
+1224,Jacket,Consumer Durable,BrandC,81.62,Best seller
+1225,Washing Machine,Electronics,BrandA,103.05,Top rated
+1226,Bread,Electronics,BrandC,272.81,New arrival
+1227,Jeans,Electronics,BrandB,43.51,Budget friendly
+1228,Shampoo,Consumer Durable,BrandD,117.58,Top rated
+1229,Printer,FMCG,BrandD,299.43,Best seller
+1230,Juice,Apparel,BrandB,74.36,New arrival
+1231,Printer,FMCG,BrandB,499.83,Budget friendly
+1232,Juice,Electronics,BrandC,128.63,New arrival
+1233,Soap,Electronics,BrandC,102.91,New arrival
+1234,Smartwatch,Daily Essentials,BrandA,83.5,High quality
+1235,Rice,Consumer Durable,BrandD,347.46,Budget friendly
+1236,Printer,Daily Essentials,BrandB,76.0,Budget friendly
+1237,Soap,Electronics,BrandC,204.11,Top rated
+1238,Smartphone,FMCG,BrandA,485.36,New arrival
+1239,Printer,Apparel,BrandD,320.26,Budget friendly
+1240,Mouse,Daily Essentials,BrandA,445.48,Top rated
+1241,Air Conditioner,Daily Essentials,BrandD,150.94,Top rated
+1242,Printer,Electronics,BrandD,320.29,Budget friendly
+1243,Juice,FMCG,BrandA,406.01,Top rated
+1244,Jacket,Daily Essentials,BrandD,198.25,Best seller
+1245,Biscuits,Consumer Durable,BrandB,74.49,Top rated
+1246,Printer,Daily Essentials,BrandA,210.2,New arrival
+1247,Refrigerator,FMCG,BrandC,51.3,Top rated
+1248,Laptop,Consumer Durable,BrandC,320.42,Top rated
+1249,Milk,Daily Essentials,BrandB,208.7,High quality
+1250,Keyboard,FMCG,BrandD,300.83,Best seller
+1251,Headphones,Daily Essentials,BrandD,265.05,New arrival
+1252,Soap,Electronics,BrandA,283.34,Best seller
+1253,Headphones,Apparel,BrandC,337.49,New arrival
+1254,Refrigerator,Consumer Durable,BrandC,410.46,Budget friendly
+1255,Camera,Consumer Durable,BrandD,201.17,New arrival
+1256,Vegetables,Daily Essentials,BrandC,196.97,Top rated
+1257,Printer,Electronics,BrandC,471.45,High quality
+1258,Washing Machine,FMCG,BrandB,71.31,High quality
+1259,Air Conditioner,Consumer Durable,BrandA,450.34,New arrival
+1260,Microwave,Electronics,BrandB,46.42,Budget friendly
+1261,Smartwatch,Consumer Durable,BrandB,25.72,New arrival
+1262,Milk,Apparel,BrandB,98.11,Budget friendly
+1263,Rice,Daily Essentials,BrandC,294.16,High quality
+1264,Microwave,Consumer Durable,BrandA,176.98,Best seller
+1265,Toothpaste,Apparel,BrandB,60.13,High quality
+1266,Shoes,Apparel,BrandD,484.05,Top rated
+1267,Mouse,Consumer Durable,BrandC,105.51,Budget friendly
+1268,Printer,Consumer Durable,BrandD,67.52,High quality
+1269,Mouse,FMCG,BrandD,78.01,Budget friendly
+1270,Microwave,Consumer Durable,BrandA,476.52,Budget friendly
+1271,Juice,Electronics,BrandD,87.99,Best seller
+1272,Milk,Apparel,BrandC,389.89,High quality
+1273,Keyboard,FMCG,BrandA,217.21,High quality
+1274,Jacket,Consumer Durable,BrandC,81.62,Best seller
+1275,Washing Machine,Electronics,BrandA,103.05,Top rated
+1276,Bread,Electronics,BrandC,272.81,New arrival
+1277,Jeans,Electronics,BrandB,43.51,Budget friendly
+1278,Shampoo,Consumer Durable,BrandD,117.58,Top rated
+1279,Printer,FMCG,BrandD,299.43,Best seller
+1280,Juice,Apparel,BrandB,74.36,New arrival
+1281,Printer,FMCG,BrandB,499.83,Budget friendly
+1282,Juice,Electronics,BrandC,128.63,New arrival
+1283,Soap,Electronics,BrandC,102.91,New arrival
+1284,Smartwatch,Daily Essentials,BrandA,83.5,High quality
+1285,Rice,Consumer Durable,BrandD,347.46,Budget friendly
+1286,Printer,Daily Essentials,BrandB,76.0,Budget friendly
+1287,Soap,Electronics,BrandC,204.11,Top rated
+1288,Smartphone,FMCG,BrandA,485.36,New arrival
+1289,Printer,Apparel,BrandD,320.26,Budget friendly
+1290,Mouse,Daily Essentials,BrandA,445.48,Top rated
+1291,Air Conditioner,Daily Essentials,BrandD,150.94,Top rated
+1292,Printer,Electronics,BrandD,320.29,Budget friendly
+1293,Juice,FMCG,BrandA,406.01,Top rated
+1294,Jacket,Daily Essentials,BrandD,198.25,Best seller
+1295,Biscuits,Consumer Durable,BrandB,74.49,Top rated
+1296,Printer,Daily Essentials,BrandA,210.2,New arrival
+1297,Refrigerator,FMCG,BrandC,51.3,Top rated
+1298,Laptop,Consumer Durable,BrandC,320.42,Top rated
+1299,Milk,Daily Essentials,BrandB,208.7,High quality
+1300,Keyboard,FMCG,BrandD,300.83,Best seller
+1301,Headphones,Daily Essentials,BrandD,265.05,New arrival
+1302,Soap,Electronics,BrandA,283.34,Best seller
+1303,Headphones,Apparel,BrandC,337.49,New arrival
+1304,Refrigerator,Consumer Durable,BrandC,410.46,Budget friendly
+1305,Camera,Consumer Durable,BrandD,201.17,New arrival
+1306,Vegetables,Daily Essentials,BrandC,196.97,Top rated
+1307,Printer,Electronics,BrandC,471.45,High quality
+1308,Washing Machine,FMCG,BrandB,71.31,High quality
+1309,Air Conditioner,Consumer Durable,BrandA,450.34,New arrival
+1310,Microwave,Electronics,BrandB,46.42,Budget friendly
+1311,Smartwatch,Consumer Durable,BrandB,25.72,New arrival
+1312,Milk,Apparel,BrandB,98.11,Budget friendly
+1313,Rice,Daily Essentials,BrandC,294.16,High quality
+1314,Microwave,Consumer Durable,BrandA,176.98,Best seller
+1315,Toothpaste,Apparel,BrandB,60.13,High quality
+1316,Shoes,Apparel,BrandD,484.05,Top rated
+1317,Mouse,Consumer Durable,BrandC,105.51,Budget friendly
+1318,Printer,Consumer Durable,BrandD,67.52,High quality
+1319,Mouse,FMCG,BrandD,78.01,Budget friendly
+1320,Microwave,Consumer Durable,BrandA,476.52,Budget friendly
+1321,Juice,Electronics,BrandD,87.99,Best seller
+1322,Milk,Apparel,BrandC,389.89,High quality
+1323,Keyboard,FMCG,BrandA,217.21,High quality
+1324,Jacket,Consumer Durable,BrandC,81.62,Best seller
+1325,Washing Machine,Electronics,BrandA,103.05,Top rated
+1326,Bread,Electronics,BrandC,272.81,New arrival
+1327,Jeans,Electronics,BrandB,43.51,Budget friendly
+1328,Shampoo,Consumer Durable,BrandD,117.58,Top rated
+1329,Printer,FMCG,BrandD,299.43,Best seller
+1330,Juice,Apparel,BrandB,74.36,New arrival
+1331,Printer,FMCG,BrandB,499.83,Budget friendly
+1332,Juice,Electronics,BrandC,128.63,New arrival
+1333,Soap,Electronics,BrandC,102.91,New arrival
+1334,Smartwatch,Daily Essentials,BrandA,83.5,High quality
+1335,Rice,Consumer Durable,BrandD,347.46,Budget friendly
+1336,Printer,Daily Essentials,BrandB,76.0,Budget friendly
+1337,Soap,Electronics,BrandC,204.11,Top rated
+1338,Smartphone,FMCG,BrandA,485.36,New arrival
+1339,Printer,Apparel,BrandD,320.26,Budget friendly
+1340,Mouse,Daily Essentials,BrandA,445.48,Top rated
+1341,Air Conditioner,Daily Essentials,BrandD,150.94,Top rated
+1342,Printer,Electronics,BrandD,320.29,Budget friendly
+1343,Juice,FMCG,BrandA,406.01,Top rated
+1344,Jacket,Daily Essentials,BrandD,198.25,Best seller
+1345,Biscuits,Consumer Durable,BrandB,74.49,Top rated
+1346,Printer,Daily Essentials,BrandA,210.2,New arrival
+1347,Refrigerator,FMCG,BrandC,51.3,Top rated
+1348,Laptop,Consumer Durable,BrandC,320.42,Top rated
+1349,Milk,Daily Essentials,BrandB,208.7,High quality
+1350,Keyboard,FMCG,BrandD,300.83,Best seller
+1351,Headphones,Daily Essentials,BrandD,265.05,New arrival
+1352,Soap,Electronics,BrandA,283.34,Best seller
+1353,Headphones,Apparel,BrandC,337.49,New arrival
+1354,Refrigerator,Consumer Durable,BrandC,410.46,Budget friendly
+1355,Camera,Consumer Durable,BrandD,201.17,New arrival
+1356,Vegetables,Daily Essentials,BrandC,196.97,Top rated
+1357,Printer,Electronics,BrandC,471.45,High quality
+1358,Washing Machine,FMCG,BrandB,71.31,High quality
+1359,Air Conditioner,Consumer Durable,BrandA,450.34,New arrival
+1360,Microwave,Electronics,BrandB,46.42,Budget friendly
+1361,Smartwatch,Consumer Durable,BrandB,25.72,New arrival
+1362,Milk,Apparel,BrandB,98.11,Budget friendly
+1363,Rice,Daily Essentials,BrandC,294.16,High quality
+1364,Microwave,Consumer Durable,BrandA,176.98,Best seller
+1365,Toothpaste,Apparel,BrandB,60.13,High quality
+1366,Shoes,Apparel,BrandD,484.05,Top rated
+1367,Mouse,Consumer Durable,BrandC,105.51,Budget friendly
+1368,Printer,Consumer Durable,BrandD,67.52,High quality
+1369,Mouse,FMCG,BrandD,78.01,Budget friendly
+1370,Microwave,Consumer Durable,BrandA,476.52,Budget friendly
+1371,Juice,Electronics,BrandD,87.99,Best seller
+1372,Milk,Apparel,BrandC,389.89,High quality
+1373,Keyboard,FMCG,BrandA,217.21,High quality
+1374,Jacket,Consumer Durable,BrandC,81.62,Best seller
+1375,Washing Machine,Electronics,BrandA,103.05,Top rated
+1376,Bread,Electronics,BrandC,272.81,New arrival
+1377,Jeans,Electronics,BrandB,43.51,Budget friendly
+1378,Shampoo,Consumer Durable,BrandD,117.58,Top rated
+1379,Printer,FMCG,BrandD,299.43,Best seller
+1380,Juice,Apparel,BrandB,74.36,New arrival
+1381,Printer,FMCG,BrandB,499.83,Budget friendly
+1382,Juice,Electronics,BrandC,128.63,New arrival
+1383,Soap,Electronics,BrandC,102.91,New arrival
+1384,Smartwatch,Daily Essentials,BrandA,83.5,High quality
+1385,Rice,Consumer Durable,BrandD,347.46,Budget friendly
+1386,Printer,Daily Essentials,BrandB,76.0,Budget friendly
+1387,Soap,Electronics,BrandC,204.11,Top rated
+1388,Smartphone,FMCG,BrandA,485.36,New arrival
+1389,Printer,Apparel,BrandD,320.26,Budget friendly
+1390,Mouse,Daily Essentials,BrandA,445.48,Top rated
+1391,Air Conditioner,Daily Essentials,BrandD,150.94,Top rated
+1392,Printer,Electronics,BrandD,320.29,Budget friendly
+1393,Juice,FMCG,BrandA,406.01,Top rated
+1394,Jacket,Daily Essentials,BrandD,198.25,Best seller
+1395,Biscuits,Consumer Durable,BrandB,74.49,Top rated
+1396,Printer,Daily Essentials,BrandA,210.2,New arrival
+1397,Refrigerator,FMCG,BrandC,51.3,Top rated
+1398,Laptop,Consumer Durable,BrandC,320.42,Top rated
+1399,Milk,Daily Essentials,BrandB,208.7,High quality
+1400,Keyboard,FMCG,BrandD,300.83,Best seller
+1401,Headphones,Daily Essentials,BrandD,265.05,New arrival
+1402,Soap,Electronics,BrandA,283.34,Best seller
+1403,Headphones,Apparel,BrandC,337.49,New arrival
+1404,Refrigerator,Consumer Durable,BrandC,410.46,Budget friendly
+1405,Camera,Consumer Durable,BrandD,201.17,New arrival
+1406,Vegetables,Daily Essentials,BrandC,196.97,Top rated
+1407,Printer,Electronics,BrandC,471.45,High quality
+1408,Washing Machine,FMCG,BrandB,71.31,High quality
+1409,Air Conditioner,Consumer Durable,BrandA,450.34,New arrival
+1410,Microwave,Electronics,BrandB,46.42,Budget friendly
+1411,Smartwatch,Consumer Durable,BrandB,25.72,New arrival
+1412,Milk,Apparel,BrandB,98.11,Budget friendly
+1413,Rice,Daily Essentials,BrandC,294.16,High quality
+1414,Microwave,Consumer Durable,BrandA,176.98,Best seller
+1415,Toothpaste,Apparel,BrandB,60.13,High quality
+1416,Shoes,Apparel,BrandD,484.05,Top rated
+1417,Mouse,Consumer Durable,BrandC,105.51,Budget friendly
+1418,Printer,Consumer Durable,BrandD,67.52,High quality
+1419,Mouse,FMCG,BrandD,78.01,Budget friendly
+1420,Microwave,Consumer Durable,BrandA,476.52,Budget friendly
+1421,Juice,Electronics,BrandD,87.99,Best seller
+1422,Milk,Apparel,BrandC,389.89,High quality
+1423,Keyboard,FMCG,BrandA,217.21,High quality
+1424,Jacket,Consumer Durable,BrandC,81.62,Best seller
+1425,Washing Machine,Electronics,BrandA,103.05,Top rated
+1426,Bread,Electronics,BrandC,272.81,New arrival
+1427,Jeans,Electronics,BrandB,43.51,Budget friendly
+1428,Shampoo,Consumer Durable,BrandD,117.58,Top rated
+1429,Printer,FMCG,BrandD,299.43,Best seller
+1430,Juice,Apparel,BrandB,74.36,New arrival
+1431,Printer,FMCG,BrandB,499.83,Budget friendly
+1432,Juice,Electronics,BrandC,128.63,New arrival
+1433,Soap,Electronics,BrandC,102.91,New arrival
+1434,Smartwatch,Daily Essentials,BrandA,83.5,High quality
+1435,Rice,Consumer Durable,BrandD,347.46,Budget friendly
+1436,Printer,Daily Essentials,BrandB,76.0,Budget friendly
+1437,Soap,Electronics,BrandC,204.11,Top rated
+1438,Smartphone,FMCG,BrandA,485.36,New arrival
+1439,Printer,Apparel,BrandD,320.26,Budget friendly
+1440,Mouse,Daily Essentials,BrandA,445.48,Top rated
+1441,Air Conditioner,Daily Essentials,BrandD,150.94,Top rated
+1442,Printer,Electronics,BrandD,320.29,Budget friendly
+1443,Juice,FMCG,BrandA,406.01,Top rated
+1444,Jacket,Daily Essentials,BrandD,198.25,Best seller
+1445,Biscuits,Consumer Durable,BrandB,74.49,Top rated
+1446,Printer,Daily Essentials,BrandA,210.2,New arrival
+1447,Refrigerator,FMCG,BrandC,51.3,Top rated
+1448,Laptop,Consumer Durable,BrandC,320.42,Top rated
+1449,Milk,Daily Essentials,BrandB,208.7,High quality
+1450,Keyboard,FMCG,BrandD,300.83,Best seller
+1451,Headphones,Daily Essentials,BrandD,265.05,New arrival
+1452,Soap,Electronics,BrandA,283.34,Best seller
+1453,Headphones,Apparel,BrandC,337.49,New arrival
+1454,Refrigerator,Consumer Durable,BrandC,410.46,Budget friendly
+1455,Camera,Consumer Durable,BrandD,201.17,New arrival
+1456,Vegetables,Daily Essentials,BrandC,196.97,Top rated
+1457,Printer,Electronics,BrandC,471.45,High quality
+1458,Washing Machine,FMCG,BrandB,71.31,High quality
+1459,Air Conditioner,Consumer Durable,BrandA,450.34,New arrival
+1460,Microwave,Electronics,BrandB,46.42,Budget friendly
+1461,Smartwatch,Consumer Durable,BrandB,25.72,New arrival
+1462,Milk,Apparel,BrandB,98.11,Budget friendly
+1463,Rice,Daily Essentials,BrandC,294.16,High quality
+1464,Microwave,Consumer Durable,BrandA,176.98,Best seller
+1465,Toothpaste,Apparel,BrandB,60.13,High quality
+1466,Shoes,Apparel,BrandD,484.05,Top rated
+1467,Mouse,Consumer Durable,BrandC,105.51,Budget friendly
+1468,Printer,Consumer Durable,BrandD,67.52,High quality
+1469,Mouse,FMCG,BrandD,78.01,Budget friendly
+1470,Microwave,Consumer Durable,BrandA,476.52,Budget friendly
+1471,Juice,Electronics,BrandD,87.99,Best seller
+1472,Milk,Apparel,BrandC,389.89,High quality
+1473,Keyboard,FMCG,BrandA,217.21,High quality
+1474,Jacket,Consumer Durable,BrandC,81.62,Best seller
+1475,Washing Machine,Electronics,BrandA,103.05,Top rated
+1476,Bread,Electronics,BrandC,272.81,New arrival
+1477,Jeans,Electronics,BrandB,43.51,Budget friendly
+1478,Shampoo,Consumer Durable,BrandD,117.58,Top rated
+1479,Printer,FMCG,BrandD,299.43,Best seller
+1480,Juice,Apparel,BrandB,74.36,New arrival
+1481,Printer,FMCG,BrandB,499.83,Budget friendly
+1482,Juice,Electronics,BrandC,128.63,New arrival
+1483,Soap,Electronics,BrandC,102.91,New arrival
+1484,Smartwatch,Daily Essentials,BrandA,83.5,High quality
+1485,Rice,Consumer Durable,BrandD,347.46,Budget friendly
+1486,Printer,Daily Essentials,BrandB,76.0,Budget friendly
+1487,Soap,Electronics,BrandC,204.11,Top rated
+1488,Smartphone,FMCG,BrandA,485.36,New arrival
+1489,Printer,Apparel,BrandD,320.26,Budget friendly
+1490,Mouse,Daily Essentials,BrandA,445.48,Top rated
+1491,Air Conditioner,Daily Essentials,BrandD,150.94,Top rated
+1492,Printer,Electronics,BrandD,320.29,Budget friendly
+1493,Juice,FMCG,BrandA,406.01,Top rated
+1494,Jacket,Daily Essentials,BrandD,198.25,Best seller
+1495,Biscuits,Consumer Durable,BrandB,74.49,Top rated
+1496,Printer,Daily Essentials,BrandA,210.2,New arrival
+1497,Refrigerator,FMCG,BrandC,51.3,Top rated
+1498,Laptop,Consumer Durable,BrandC,320.42,Top rated
+1499,Milk,Daily Essentials,BrandB,208.7,High quality
+1500,Keyboard,FMCG,BrandD,300.83,Best seller
+1501,Headphones,Daily Essentials,BrandD,265.05,New arrival
+1502,Soap,Electronics,BrandA,283.34,Best seller
+1503,Headphones,Apparel,BrandC,337.49,New arrival
+1504,Refrigerator,Consumer Durable,BrandC,410.46,Budget friendly
+1505,Camera,Consumer Durable,BrandD,201.17,New arrival
+1506,Vegetables,Daily Essentials,BrandC,196.97,Top rated
+1507,Printer,Electronics,BrandC,471.45,High quality
+1508,Washing Machine,FMCG,BrandB,71.31,High quality
+1509,Air Conditioner,Consumer Durable,BrandA,450.34,New arrival
+1510,Microwave,Electronics,BrandB,46.42,Budget friendly
+1511,Smartwatch,Consumer Durable,BrandB,25.72,New arrival
+1512,Milk,Apparel,BrandB,98.11,Budget friendly
+1513,Rice,Daily Essentials,BrandC,294.16,High quality
+1514,Microwave,Consumer Durable,BrandA,176.98,Best seller
+1515,Toothpaste,Apparel,BrandB,60.13,High quality
+1516,Shoes,Apparel,BrandD,484.05,Top rated
+1517,Mouse,Consumer Durable,BrandC,105.51,Budget friendly
+1518,Printer,Consumer Durable,BrandD,67.52,High quality
+1519,Mouse,FMCG,BrandD,78.01,Budget friendly
+1520,Microwave,Consumer Durable,BrandA,476.52,Budget friendly
+1521,Juice,Electronics,BrandD,87.99,Best seller
+1522,Milk,Apparel,BrandC,389.89,High quality
+1523,Keyboard,FMCG,BrandA,217.21,High quality
+1524,Jacket,Consumer Durable,BrandC,81.62,Best seller
+1525,Washing Machine,Electronics,BrandA,103.05,Top rated
+1526,Bread,Electronics,BrandC,272.81,New arrival
+1527,Jeans,Electronics,BrandB,43.51,Budget friendly
+1528,Shampoo,Consumer Durable,BrandD,117.58,Top rated
+1529,Printer,FMCG,BrandD,299.43,Best seller
+1530,Juice,Apparel,BrandB,74.36,New arrival
+1531,Printer,FMCG,BrandB,499.83,Budget friendly
+1532,Juice,Electronics,BrandC,128.63,New arrival
+1533,Soap,Electronics,BrandC,102.91,New arrival
+1534,Smartwatch,Daily Essentials,BrandA,83.5,High quality
+1535,Rice,Consumer Durable,BrandD,347.46,Budget friendly
+1536,Printer,Daily Essentials,BrandB,76.0,Budget friendly
+1537,Soap,Electronics,BrandC,204.11,Top rated
+1538,Smartphone,FMCG,BrandA,485.36,New arrival
+1539,Printer,Apparel,BrandD,320.26,Budget friendly
+1540,Mouse,Daily Essentials,BrandA,445.48,Top rated
+1541,Air Conditioner,Daily Essentials,BrandD,150.94,Top rated
+1542,Printer,Electronics,BrandD,320.29,Budget friendly
+1543,Juice,FMCG,BrandA,406.01,Top rated
+1544,Jacket,Daily Essentials,BrandD,198.25,Best seller
+1545,Biscuits,Consumer Durable,BrandB,74.49,Top rated
+1546,Printer,Daily Essentials,BrandA,210.2,New arrival
+1547,Refrigerator,FMCG,BrandC,51.3,Top rated
+1548,Laptop,Consumer Durable,BrandC,320.42,Top rated
+1549,Milk,Daily Essentials,BrandB,208.7,High quality
+1550,Keyboard,FMCG,BrandD,300.83,Best seller
+1551,Headphones,Daily Essentials,BrandD,265.05,New arrival
+1552,Soap,Electronics,BrandA,283.34,Best seller
+1553,Headphones,Apparel,BrandC,337.49,New arrival
+1554,Refrigerator,Consumer Durable,BrandC,410.46,Budget friendly
+1555,Camera,Consumer Durable,BrandD,201.17,New arrival
+1556,Vegetables,Daily Essentials,BrandC,196.97,Top rated
+1557,Printer,Electronics,BrandC,471.45,High quality
+1558,Washing Machine,FMCG,BrandB,71.31,High quality
+1559,Air Conditioner,Consumer Durable,BrandA,450.34,New arrival
+1560,Microwave,Electronics,BrandB,46.42,Budget friendly
+1561,Smartwatch,Consumer Durable,BrandB,25.72,New arrival
+1562,Milk,Apparel,BrandB,98.11,Budget friendly
+1563,Rice,Daily Essentials,BrandC,294.16,High quality
+1564,Microwave,Consumer Durable,BrandA,176.98,Best seller
+1565,Toothpaste,Apparel,BrandB,60.13,High quality
+1566,Shoes,Apparel,BrandD,484.05,Top rated
+1567,Mouse,Consumer Durable,BrandC,105.51,Budget friendly
+1568,Printer,Consumer Durable,BrandD,67.52,High quality
+1569,Mouse,FMCG,BrandD,78.01,Budget friendly
+1570,Microwave,Consumer Durable,BrandA,476.52,Budget friendly
+1571,Juice,Electronics,BrandD,87.99,Best seller
+1572,Milk,Apparel,BrandC,389.89,High quality
+1573,Keyboard,FMCG,BrandA,217.21,High quality
+1574,Jacket,Consumer Durable,BrandC,81.62,Best seller
+1575,Washing Machine,Electronics,BrandA,103.05,Top rated
+1576,Bread,Electronics,BrandC,272.81,New arrival
+1577,Jeans,Electronics,BrandB,43.51,Budget friendly
+1578,Shampoo,Consumer Durable,BrandD,117.58,Top rated
+1579,Printer,FMCG,BrandD,299.43,Best seller
+1580,Juice,Apparel,BrandB,74.36,New arrival
+1581,Printer,FMCG,BrandB,499.83,Budget friendly
+1582,Juice,Electronics,BrandC,128.63,New arrival
+1583,Soap,Electronics,BrandC,102.91,New arrival
+1584,Smartwatch,Daily Essentials,BrandA,83.5,High quality
+1585,Rice,Consumer Durable,BrandD,347.46,Budget friendly
+1586,Printer,Daily Essentials,BrandB,76.0,Budget friendly
+1587,Soap,Electronics,BrandC,204.11,Top rated
+1588,Smartphone,FMCG,BrandA,485.36,New arrival
+1589,Printer,Apparel,BrandD,320.26,Budget friendly
+1590,Mouse,Daily Essentials,BrandA,445.48,Top rated
+1591,Air Conditioner,Daily Essentials,BrandD,150.94,Top rated
+1592,Printer,Electronics,BrandD,320.29,Budget friendly
+1593,Juice,FMCG,BrandA,406.01,Top rated
+1594,Jacket,Daily Essentials,BrandD,198.25,Best seller
+1595,Biscuits,Consumer Durable,BrandB,74.49,Top rated
+1596,Printer,Daily Essentials,BrandA,210.2,New arrival
+1597,Refrigerator,FMCG,BrandC,51.3,Top rated
+1598,Laptop,Consumer Durable,BrandC,320.42,Top rated
+1599,Milk,Daily Essentials,BrandB,208.7,High quality
+1600,Keyboard,FMCG,BrandD,300.83,Best seller
+1601,Headphones,Daily Essentials,BrandD,265.05,New arrival
+1602,Soap,Electronics,BrandA,283.34,Best seller
+1603,Headphones,Apparel,BrandC,337.49,New arrival
+1604,Refrigerator,Consumer Durable,BrandC,410.46,Budget friendly
+1605,Camera,Consumer Durable,BrandD,201.17,New arrival
+1606,Vegetables,Daily Essentials,BrandC,196.97,Top rated
+1607,Printer,Electronics,BrandC,471.45,High quality
+1608,Washing Machine,FMCG,BrandB,71.31,High quality
+1609,Air Conditioner,Consumer Durable,BrandA,450.34,New arrival
+1610,Microwave,Electronics,BrandB,46.42,Budget friendly
+1611,Smartwatch,Consumer Durable,BrandB,25.72,New arrival
+1612,Milk,Apparel,BrandB,98.11,Budget friendly
+1613,Rice,Daily Essentials,BrandC,294.16,High quality
+1614,Microwave,Consumer Durable,BrandA,176.98,Best seller
+1615,Toothpaste,Apparel,BrandB,60.13,High quality
+1616,Shoes,Apparel,BrandD,484.05,Top rated
+1617,Mouse,Consumer Durable,BrandC,105.51,Budget friendly
+1618,Printer,Consumer Durable,BrandD,67.52,High quality
+1619,Mouse,FMCG,BrandD,78.01,Budget friendly
+1620,Microwave,Consumer Durable,BrandA,476.52,Budget friendly
+1621,Juice,Electronics,BrandD,87.99,Best seller
+1622,Milk,Apparel,BrandC,389.89,High quality
+1623,Keyboard,FMCG,BrandA,217.21,High quality
+1624,Jacket,Consumer Durable,BrandC,81.62,Best seller
+1625,Washing Machine,Electronics,BrandA,103.05,Top rated
+1626,Bread,Electronics,BrandC,272.81,New arrival
+1627,Jeans,Electronics,BrandB,43.51,Budget friendly
+1628,Shampoo,Consumer Durable,BrandD,117.58,Top rated
+1629,Printer,FMCG,BrandD,299.43,Best seller
+1630,Juice,Apparel,BrandB,74.36,New arrival
+1631,Printer,FMCG,BrandB,499.83,Budget friendly
+1632,Juice,Electronics,BrandC,128.63,New arrival
+1633,Soap,Electronics,BrandC,102.91,New arrival
+1634,Smartwatch,Daily Essentials,BrandA,83.5,High quality
+1635,Rice,Consumer Durable,BrandD,347.46,Budget friendly
+1636,Printer,Daily Essentials,BrandB,76.0,Budget friendly
+1637,Soap,Electronics,BrandC,204.11,Top rated
+1638,Smartphone,FMCG,BrandA,485.36,New arrival
+1639,Printer,Apparel,BrandD,320.26,Budget friendly
+1640,Mouse,Daily Essentials,BrandA,445.48,Top rated
+1641,Air Conditioner,Daily Essentials,BrandD,150.94,Top rated
+1642,Printer,Electronics,BrandD,320.29,Budget friendly
+1643,Juice,FMCG,BrandA,406.01,Top rated
+1644,Jacket,Daily Essentials,BrandD,198.25,Best seller
+1645,Biscuits,Consumer Durable,BrandB,74.49,Top rated
+1646,Printer,Daily Essentials,BrandA,210.2,New arrival
+1647,Refrigerator,FMCG,BrandC,51.3,Top rated
+1648,Laptop,Consumer Durable,BrandC,320.42,Top rated
+1649,Milk,Daily Essentials,BrandB,208.7,High quality
+1650,Keyboard,FMCG,BrandD,300.83,Best seller
+1651,Headphones,Daily Essentials,BrandD,265.05,New arrival
+1652,Soap,Electronics,BrandA,283.34,Best seller
+1653,Headphones,Apparel,BrandC,337.49,New arrival
+1654,Refrigerator,Consumer Durable,BrandC,410.46,Budget friendly
+1655,Camera,Consumer Durable,BrandD,201.17,New arrival
+1656,Vegetables,Daily Essentials,BrandC,196.97,Top rated
+1657,Printer,Electronics,BrandC,471.45,High quality
+1658,Washing Machine,FMCG,BrandB,71.31,High quality
+1659,Air Conditioner,Consumer Durable,BrandA,450.34,New arrival
+1660,Microwave,Electronics,BrandB,46.42,Budget friendly
+1661,Smartwatch,Consumer Durable,BrandB,25.72,New arrival
+1662,Milk,Apparel,BrandB,98.11,Budget friendly
+1663,Rice,Daily Essentials,BrandC,294.16,High quality
+1664,Microwave,Consumer Durable,BrandA,176.98,Best seller
+1665,Toothpaste,Apparel,BrandB,60.13,High quality
+1666,Shoes,Apparel,BrandD,484.05,Top rated
+1667,Mouse,Consumer Durable,BrandC,105.51,Budget friendly
+1668,Printer,Consumer Durable,BrandD,67.52,High quality
+1669,Mouse,FMCG,BrandD,78.01,Budget friendly
+1670,Microwave,Consumer Durable,BrandA,476.52,Budget friendly
+1671,Juice,Electronics,BrandD,87.99,Best seller
+1672,Milk,Apparel,BrandC,389.89,High quality
+1673,Keyboard,FMCG,BrandA,217.21,High quality
+1674,Jacket,Consumer Durable,BrandC,81.62,Best seller
+1675,Washing Machine,Electronics,BrandA,103.05,Top rated
+1676,Bread,Electronics,BrandC,272.81,New arrival
+1677,Jeans,Electronics,BrandB,43.51,Budget friendly
+1678,Shampoo,Consumer Durable,BrandD,117.58,Top rated
+1679,Printer,FMCG,BrandD,299.43,Best seller
+1680,Juice,Apparel,BrandB,74.36,New arrival
+1681,Printer,FMCG,BrandB,499.83,Budget friendly
+1682,Juice,Electronics,BrandC,128.63,New arrival
+1683,Soap,Electronics,BrandC,102.91,New arrival
+1684,Smartwatch,Daily Essentials,BrandA,83.5,High quality
+1685,Rice,Consumer Durable,BrandD,347.46,Budget friendly
+1686,Printer,Daily Essentials,BrandB,76.0,Budget friendly
+1687,Soap,Electronics,BrandC,204.11,Top rated
+1688,Smartphone,FMCG,BrandA,485.36,New arrival
+1689,Printer,Apparel,BrandD,320.26,Budget friendly
+1690,Mouse,Daily Essentials,BrandA,445.48,Top rated
+1691,Air Conditioner,Daily Essentials,BrandD,150.94,Top rated
+1692,Printer,Electronics,BrandD,320.29,Budget friendly
+1693,Juice,FMCG,BrandA,406.01,Top rated
+1694,Jacket,Daily Essentials,BrandD,198.25,Best seller
+1695,Biscuits,Consumer Durable,BrandB,74.49,Top rated
+1696,Printer,Daily Essentials,BrandA,210.2,New arrival
+1697,Refrigerator,FMCG,BrandC,51.3,Top rated
+1698,Laptop,Consumer Durable,BrandC,320.42,Top rated
+1699,Milk,Daily Essentials,BrandB,208.7,High quality
+1700,Keyboard,FMCG,BrandD,300.83,Best seller
+1701,Headphones,Daily Essentials,BrandD,265.05,New arrival
+1702,Soap,Electronics,BrandA,283.34,Best seller
+1703,Headphones,Apparel,BrandC,337.49,New arrival
+1704,Refrigerator,Consumer Durable,BrandC,410.46,Budget friendly
+1705,Camera,Consumer Durable,BrandD,201.17,New arrival
+1706,Vegetables,Daily Essentials,BrandC,196.97,Top rated
+1707,Printer,Electronics,BrandC,471.45,High quality
+1708,Washing Machine,FMCG,BrandB,71.31,High quality
+1709,Air Conditioner,Consumer Durable,BrandA,450.34,New arrival
+1710,Microwave,Electronics,BrandB,46.42,Budget friendly
+1711,Smartwatch,Consumer Durable,BrandB,25.72,New arrival
+1712,Milk,Apparel,BrandB,98.11,Budget friendly
+1713,Rice,Daily Essentials,BrandC,294.16,High quality
+1714,Microwave,Consumer Durable,BrandA,176.98,Best seller
+1715,Toothpaste,Apparel,BrandB,60.13,High quality
+1716,Shoes,Apparel,BrandD,484.05,Top rated
+1717,Mouse,Consumer Durable,BrandC,105.51,Budget friendly
+1718,Printer,Consumer Durable,BrandD,67.52,High quality
+1719,Mouse,FMCG,BrandD,78.01,Budget friendly
+1720,Microwave,Consumer Durable,BrandA,476.52,Budget friendly
+1721,Juice,Electronics,BrandD,87.99,Best seller
+1722,Milk,Apparel,BrandC,389.89,High quality
+1723,Keyboard,FMCG,BrandA,217.21,High quality
+1724,Jacket,Consumer Durable,BrandC,81.62,Best seller
+1725,Washing Machine,Electronics,BrandA,103.05,Top rated
+1726,Bread,Electronics,BrandC,272.81,New arrival
+1727,Jeans,Electronics,BrandB,43.51,Budget friendly
+1728,Shampoo,Consumer Durable,BrandD,117.58,Top rated
+1729,Printer,FMCG,BrandD,299.43,Best seller
+1730,Juice,Apparel,BrandB,74.36,New arrival
+1731,Printer,FMCG,BrandB,499.83,Budget friendly
+1732,Juice,Electronics,BrandC,128.63,New arrival
+1733,Soap,Electronics,BrandC,102.91,New arrival
+1734,Smartwatch,Daily Essentials,BrandA,83.5,High quality
+1735,Rice,Consumer Durable,BrandD,347.46,Budget friendly
+1736,Printer,Daily Essentials,BrandB,76.0,Budget friendly
+1737,Soap,Electronics,BrandC,204.11,Top rated
+1738,Smartphone,FMCG,BrandA,485.36,New arrival
+1739,Printer,Apparel,BrandD,320.26,Budget friendly
+1740,Mouse,Daily Essentials,BrandA,445.48,Top rated
+1741,Air Conditioner,Daily Essentials,BrandD,150.94,Top rated
+1742,Printer,Electronics,BrandD,320.29,Budget friendly
+1743,Juice,FMCG,BrandA,406.01,Top rated
+1744,Jacket,Daily Essentials,BrandD,198.25,Best seller
+1745,Biscuits,Consumer Durable,BrandB,74.49,Top rated
+1746,Printer,Daily Essentials,BrandA,210.2,New arrival
+1747,Refrigerator,FMCG,BrandC,51.3,Top rated
+1748,Laptop,Consumer Durable,BrandC,320.42,Top rated
+1749,Milk,Daily Essentials,BrandB,208.7,High quality
+1750,Keyboard,FMCG,BrandD,300.83,Best seller
+1751,Headphones,Daily Essentials,BrandD,265.05,New arrival
+1752,Soap,Electronics,BrandA,283.34,Best seller
+1753,Headphones,Apparel,BrandC,337.49,New arrival
+1754,Refrigerator,Consumer Durable,BrandC,410.46,Budget friendly
+1755,Camera,Consumer Durable,BrandD,201.17,New arrival
+1756,Vegetables,Daily Essentials,BrandC,196.97,Top rated
+1757,Printer,Electronics,BrandC,471.45,High quality
+1758,Washing Machine,FMCG,BrandB,71.31,High quality
+1759,Air Conditioner,Consumer Durable,BrandA,450.34,New arrival
+1760,Microwave,Electronics,BrandB,46.42,Budget friendly
+1761,Smartwatch,Consumer Durable,BrandB,25.72,New arrival
+1762,Milk,Apparel,BrandB,98.11,Budget friendly
+1763,Rice,Daily Essentials,BrandC,294.16,High quality
+1764,Microwave,Consumer Durable,BrandA,176.98,Best seller
+1765,Toothpaste,Apparel,BrandB,60.13,High quality
+1766,Shoes,Apparel,BrandD,484.05,Top rated
+1767,Mouse,Consumer Durable,BrandC,105.51,Budget friendly
+1768,Printer,Consumer Durable,BrandD,67.52,High quality
+1769,Mouse,FMCG,BrandD,78.01,Budget friendly
+1770,Microwave,Consumer Durable,BrandA,476.52,Budget friendly
+1771,Juice,Electronics,BrandD,87.99,Best seller
+1772,Milk,Apparel,BrandC,389.89,High quality
+1773,Keyboard,FMCG,BrandA,217.21,High quality
+1774,Jacket,Consumer Durable,BrandC,81.62,Best seller
+1775,Washing Machine,Electronics,BrandA,103.05,Top rated
+1776,Bread,Electronics,BrandC,272.81,New arrival
+1777,Jeans,Electronics,BrandB,43.51,Budget friendly
+1778,Shampoo,Consumer Durable,BrandD,117.58,Top rated
+1779,Printer,FMCG,BrandD,299.43,Best seller
+1780,Juice,Apparel,BrandB,74.36,New arrival
+1781,Printer,FMCG,BrandB,499.83,Budget friendly
+1782,Juice,Electronics,BrandC,128.63,New arrival
+1783,Soap,Electronics,BrandC,102.91,New arrival
+1784,Smartwatch,Daily Essentials,BrandA,83.5,High quality
+1785,Rice,Consumer Durable,BrandD,347.46,Budget friendly
+1786,Printer,Daily Essentials,BrandB,76.0,Budget friendly
+1787,Soap,Electronics,BrandC,204.11,Top rated
+1788,Smartphone,FMCG,BrandA,485.36,New arrival
+1789,Printer,Apparel,BrandD,320.26,Budget friendly
+1790,Mouse,Daily Essentials,BrandA,445.48,Top rated
+1791,Air Conditioner,Daily Essentials,BrandD,150.94,Top rated
+1792,Printer,Electronics,BrandD,320.29,Budget friendly
+1793,Juice,FMCG,BrandA,406.01,Top rated
+1794,Jacket,Daily Essentials,BrandD,198.25,Best seller
+1795,Biscuits,Consumer Durable,BrandB,74.49,Top rated
+1796,Printer,Daily Essentials,BrandA,210.2,New arrival
+1797,Refrigerator,FMCG,BrandC,51.3,Top rated
+1798,Laptop,Consumer Durable,BrandC,320.42,Top rated
+1799,Milk,Daily Essentials,BrandB,208.7,High quality
+1800,Keyboard,FMCG,BrandD,300.83,Best seller
+1801,Headphones,Daily Essentials,BrandD,265.05,New arrival
+1802,Soap,Electronics,BrandA,283.34,Best seller
+1803,Headphones,Apparel,BrandC,337.49,New arrival
+1804,Refrigerator,Consumer Durable,BrandC,410.46,Budget friendly
+1805,Camera,Consumer Durable,BrandD,201.17,New arrival
+1806,Vegetables,Daily Essentials,BrandC,196.97,Top rated
+1807,Printer,Electronics,BrandC,471.45,High quality
+1808,Washing Machine,FMCG,BrandB,71.31,High quality
+1809,Air Conditioner,Consumer Durable,BrandA,450.34,New arrival
+1810,Microwave,Electronics,BrandB,46.42,Budget friendly
+1811,Smartwatch,Consumer Durable,BrandB,25.72,New arrival
+1812,Milk,Apparel,BrandB,98.11,Budget friendly
+1813,Rice,Daily Essentials,BrandC,294.16,High quality
+1814,Microwave,Consumer Durable,BrandA,176.98,Best seller
+1815,Toothpaste,Apparel,BrandB,60.13,High quality
+1816,Shoes,Apparel,BrandD,484.05,Top rated
+1817,Mouse,Consumer Durable,BrandC,105.51,Budget friendly
+1818,Printer,Consumer Durable,BrandD,67.52,High quality
+1819,Mouse,FMCG,BrandD,78.01,Budget friendly
+1820,Microwave,Consumer Durable,BrandA,476.52,Budget friendly
+1821,Juice,Electronics,BrandD,87.99,Best seller
+1822,Milk,Apparel,BrandC,389.89,High quality
+1823,Keyboard,FMCG,BrandA,217.21,High quality
+1824,Jacket,Consumer Durable,BrandC,81.62,Best seller
+1825,Washing Machine,Electronics,BrandA,103.05,Top rated
+1826,Bread,Electronics,BrandC,272.81,New arrival
+1827,Jeans,Electronics,BrandB,43.51,Budget friendly
+1828,Shampoo,Consumer Durable,BrandD,117.58,Top rated
+1829,Printer,FMCG,BrandD,299.43,Best seller
+1830,Juice,Apparel,BrandB,74.36,New arrival
+1831,Printer,FMCG,BrandB,499.83,Budget friendly
+1832,Juice,Electronics,BrandC,128.63,New arrival
+1833,Soap,Electronics,BrandC,102.91,New arrival
+1834,Smartwatch,Daily Essentials,BrandA,83.5,High quality
+1835,Rice,Consumer Durable,BrandD,347.46,Budget friendly
+1836,Printer,Daily Essentials,BrandB,76.0,Budget friendly
+1837,Soap,Electronics,BrandC,204.11,Top rated
+1838,Smartphone,FMCG,BrandA,485.36,New arrival
+1839,Printer,Apparel,BrandD,320.26,Budget friendly
+1840,Mouse,Daily Essentials,BrandA,445.48,Top rated
+1841,Air Conditioner,Daily Essentials,BrandD,150.94,Top rated
+1842,Printer,Electronics,BrandD,320.29,Budget friendly
+1843,Juice,FMCG,BrandA,406.01,Top rated
+1844,Jacket,Daily Essentials,BrandD,198.25,Best seller
+1845,Biscuits,Consumer Durable,BrandB,74.49,Top rated
+1846,Printer,Daily Essentials,BrandA,210.2,New arrival
+1847,Refrigerator,FMCG,BrandC,51.3,Top rated
+1848,Laptop,Consumer Durable,BrandC,320.42,Top rated
+1849,Milk,Daily Essentials,BrandB,208.7,High quality
+1850,Keyboard,FMCG,BrandD,300.83,Best seller
+1851,Headphones,Daily Essentials,BrandD,265.05,New arrival
+1852,Soap,Electronics,BrandA,283.34,Best seller
+1853,Headphones,Apparel,BrandC,337.49,New arrival
+1854,Refrigerator,Consumer Durable,BrandC,410.46,Budget friendly
+1855,Camera,Consumer Durable,BrandD,201.17,New arrival
+1856,Vegetables,Daily Essentials,BrandC,196.97,Top rated
+1857,Printer,Electronics,BrandC,471.45,High quality
+1858,Washing Machine,FMCG,BrandB,71.31,High quality
+1859,Air Conditioner,Consumer Durable,BrandA,450.34,New arrival
+1860,Microwave,Electronics,BrandB,46.42,Budget friendly
+1861,Smartwatch,Consumer Durable,BrandB,25.72,New arrival
+1862,Milk,Apparel,BrandB,98.11,Budget friendly
+1863,Rice,Daily Essentials,BrandC,294.16,High quality
+1864,Microwave,Consumer Durable,BrandA,176.98,Best seller
+1865,Toothpaste,Apparel,BrandB,60.13,High quality
+1866,Shoes,Apparel,BrandD,484.05,Top rated
+1867,Mouse,Consumer Durable,BrandC,105.51,Budget friendly
+1868,Printer,Consumer Durable,BrandD,67.52,High quality
+1869,Mouse,FMCG,BrandD,78.01,Budget friendly
+1870,Microwave,Consumer Durable,BrandA,476.52,Budget friendly
+1871,Juice,Electronics,BrandD,87.99,Best seller
+1872,Milk,Apparel,BrandC,389.89,High quality
+1873,Keyboard,FMCG,BrandA,217.21,High quality
+1874,Jacket,Consumer Durable,BrandC,81.62,Best seller
+1875,Washing Machine,Electronics,BrandA,103.05,Top rated
+1876,Bread,Electronics,BrandC,272.81,New arrival
+1877,Jeans,Electronics,BrandB,43.51,Budget friendly
+1878,Shampoo,Consumer Durable,BrandD,117.58,Top rated
+1879,Printer,FMCG,BrandD,299.43,Best seller
+1880,Juice,Apparel,BrandB,74.36,New arrival
+1881,Printer,FMCG,BrandB,499.83,Budget friendly
+1882,Juice,Electronics,BrandC,128.63,New arrival
+1883,Soap,Electronics,BrandC,102.91,New arrival
+1884,Smartwatch,Daily Essentials,BrandA,83.5,High quality
+1885,Rice,Consumer Durable,BrandD,347.46,Budget friendly
+1886,Printer,Daily Essentials,BrandB,76.0,Budget friendly
+1887,Soap,Electronics,BrandC,204.11,Top rated
+1888,Smartphone,FMCG,BrandA,485.36,New arrival
+1889,Printer,Apparel,BrandD,320.26,Budget friendly
+1890,Mouse,Daily Essentials,BrandA,445.48,Top rated
+1891,Air Conditioner,Daily Essentials,BrandD,150.94,Top rated
+1892,Printer,Electronics,BrandD,320.29,Budget friendly
+1893,Juice,FMCG,BrandA,406.01,Top rated
+1894,Jacket,Daily Essentials,BrandD,198.25,Best seller
+1895,Biscuits,Consumer Durable,BrandB,74.49,Top rated
+1896,Printer,Daily Essentials,BrandA,210.2,New arrival
+1897,Refrigerator,FMCG,BrandC,51.3,Top rated
+1898,Laptop,Consumer Durable,BrandC,320.42,Top rated
+1899,Milk,Daily Essentials,BrandB,208.7,High quality
+1900,Keyboard,FMCG,BrandD,300.83,Best seller
+1901,Headphones,Daily Essentials,BrandD,265.05,New arrival
+1902,Soap,Electronics,BrandA,283.34,Best seller
+1903,Headphones,Apparel,BrandC,337.49,New arrival
+1904,Refrigerator,Consumer Durable,BrandC,410.46,Budget friendly
+1905,Camera,Consumer Durable,BrandD,201.17,New arrival
+1906,Vegetables,Daily Essentials,BrandC,196.97,Top rated
+1907,Printer,Electronics,BrandC,471.45,High quality
+1908,Washing Machine,FMCG,BrandB,71.31,High quality
+1909,Air Conditioner,Consumer Durable,BrandA,450.34,New arrival
+1910,Microwave,Electronics,BrandB,46.42,Budget friendly
+1911,Smartwatch,Consumer Durable,BrandB,25.72,New arrival
+1912,Milk,Apparel,BrandB,98.11,Budget friendly
+1913,Rice,Daily Essentials,BrandC,294.16,High quality
+1914,Microwave,Consumer Durable,BrandA,176.98,Best seller
+1915,Toothpaste,Apparel,BrandB,60.13,High quality
+1916,Shoes,Apparel,BrandD,484.05,Top rated
+1917,Mouse,Consumer Durable,BrandC,105.51,Budget friendly
+1918,Printer,Consumer Durable,BrandD,67.52,High quality
+1919,Mouse,FMCG,BrandD,78.01,Budget friendly
+1920,Microwave,Consumer Durable,BrandA,476.52,Budget friendly
+1921,Juice,Electronics,BrandD,87.99,Best seller
+1922,Milk,Apparel,BrandC,389.89,High quality
+1923,Keyboard,FMCG,BrandA,217.21,High quality
+1924,Jacket,Consumer Durable,BrandC,81.62,Best seller
+1925,Washing Machine,Electronics,BrandA,103.05,Top rated
+1926,Bread,Electronics,BrandC,272.81,New arrival
+1927,Jeans,Electronics,BrandB,43.51,Budget friendly
+1928,Shampoo,Consumer Durable,BrandD,117.58,Top rated
+1929,Printer,FMCG,BrandD,299.43,Best seller
+1930,Juice,Apparel,BrandB,74.36,New arrival
+1931,Printer,FMCG,BrandB,499.83,Budget friendly
+1932,Juice,Electronics,BrandC,128.63,New arrival
+1933,Soap,Electronics,BrandC,102.91,New arrival
+1934,Smartwatch,Daily Essentials,BrandA,83.5,High quality
+1935,Rice,Consumer Durable,BrandD,347.46,Budget friendly
+1936,Printer,Daily Essentials,BrandB,76.0,Budget friendly
+1937,Soap,Electronics,BrandC,204.11,Top rated
+1938,Smartphone,FMCG,BrandA,485.36,New arrival
+1939,Printer,Apparel,BrandD,320.26,Budget friendly
+1940,Mouse,Daily Essentials,BrandA,445.48,Top rated
+1941,Air Conditioner,Daily Essentials,BrandD,150.94,Top rated
+1942,Printer,Electronics,BrandD,320.29,Budget friendly
+1943,Juice,FMCG,BrandA,406.01,Top rated
+1944,Jacket,Daily Essentials,BrandD,198.25,Best seller
+1945,Biscuits,Consumer Durable,BrandB,74.49,Top rated
+1946,Printer,Daily Essentials,BrandA,210.2,New arrival
+1947,Refrigerator,FMCG,BrandC,51.3,Top rated
+1948,Laptop,Consumer Durable,BrandC,320.42,Top rated
+1949,Milk,Daily Essentials,BrandB,208.7,High quality
+1950,Keyboard,FMCG,BrandD,300.83,Best seller
+1951,Headphones,Daily Essentials,BrandD,265.05,New arrival
+1952,Soap,Electronics,BrandA,283.34,Best seller
+1953,Headphones,Apparel,BrandC,337.49,New arrival
+1954,Refrigerator,Consumer Durable,BrandC,410.46,Budget friendly
+1955,Camera,Consumer Durable,BrandD,201.17,New arrival
+1956,Vegetables,Daily Essentials,BrandC,196.97,Top rated
+1957,Printer,Electronics,BrandC,471.45,High quality
+1958,Washing Machine,FMCG,BrandB,71.31,High quality
+1959,Air Conditioner,Consumer Durable,BrandA,450.34,New arrival
+1960,Microwave,Electronics,BrandB,46.42,Budget friendly
+1961,Smartwatch,Consumer Durable,BrandB,25.72,New arrival
+1962,Milk,Apparel,BrandB,98.11,Budget friendly
+1963,Rice,Daily Essentials,BrandC,294.16,High quality
+1964,Microwave,Consumer Durable,BrandA,176.98,Best seller
+1965,Toothpaste,Apparel,BrandB,60.13,High quality
+1966,Shoes,Apparel,BrandD,484.05,Top rated
+1967,Mouse,Consumer Durable,BrandC,105.51,Budget friendly
+1968,Printer,Consumer Durable,BrandD,67.52,High quality
+1969,Mouse,FMCG,BrandD,78.01,Budget friendly
+1970,Microwave,Consumer Durable,BrandA,476.52,Budget friendly
+1971,Juice,Electronics,BrandD,87.99,Best seller
+1972,Milk,Apparel,BrandC,389.89,High quality
+1973,Keyboard,FMCG,BrandA,217.21,High quality
+1974,Jacket,Consumer Durable,BrandC,81.62,Best seller
+1975,Washing Machine,Electronics,BrandA,103.05,Top rated
+1976,Bread,Electronics,BrandC,272.81,New arrival
+1977,Jeans,Electronics,BrandB,43.51,Budget friendly
+1978,Shampoo,Consumer Durable,BrandD,117.58,Top rated
+1979,Printer,FMCG,BrandD,299.43,Best seller
+1980,Juice,Apparel,BrandB,74.36,New arrival
+1981,Printer,FMCG,BrandB,499.83,Budget friendly
+1982,Juice,Electronics,BrandC,128.63,New arrival
+1983,Soap,Electronics,BrandC,102.91,New arrival
+1984,Smartwatch,Daily Essentials,BrandA,83.5,High quality
+1985,Rice,Consumer Durable,BrandD,347.46,Budget friendly
+1986,Printer,Daily Essentials,BrandB,76.0,Budget friendly
+1987,Soap,Electronics,BrandC,204.11,Top rated
+1988,Smartphone,FMCG,BrandA,485.36,New arrival
+1989,Printer,Apparel,BrandD,320.26,Budget friendly
+1990,Mouse,Daily Essentials,BrandA,445.48,Top rated
+1991,Air Conditioner,Daily Essentials,BrandD,150.94,Top rated
+1992,Printer,Electronics,BrandD,320.29,Budget friendly
+1993,Juice,FMCG,BrandA,406.01,Top rated
+1994,Jacket,Daily Essentials,BrandD,198.25,Best seller
+1995,Biscuits,Consumer Durable,BrandB,74.49,Top rated
+1996,Printer,Daily Essentials,BrandA,210.2,New arrival
+1997,Refrigerator,FMCG,BrandC,51.3,Top rated
+1998,Laptop,Consumer Durable,BrandC,320.42,Top rated
+1999,Milk,Daily Essentials,BrandB,208.7,High quality
+2000,Keyboard,FMCG,BrandD,300.83,Best seller
