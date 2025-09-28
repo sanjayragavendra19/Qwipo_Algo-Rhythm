@@ -1,4 +1,4 @@
-# SmartReco – Personalized Product Recommendation System for Retailers
+# Qwipo_Algo_Rhythm – Personalized Product Recommendation System for Retailers
 
 AI-driven system that enhances the retailer experience on B2B platforms by providing *personalized product recommendations, **demand forecasts, and **vendor insights* based on real and synthetic sales data.
 
@@ -257,4 +257,4 @@ Deployed application (cloud)
 MIT License
 
 🔑 One-liner
-“SmartReco empowers retailers with AI-driven, explainable product recommendations — optimizing stock, enhancing profits, and driving smart retail growth through data intelligence.”
+“Qwipo_Algo_Rhythm empowers retailers with AI-driven, explainable product recommendations — optimizing stock, enhancing profits, and driving smart retail growth through data intelligence.”
