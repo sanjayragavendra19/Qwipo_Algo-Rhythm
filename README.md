@@ -38,6 +38,8 @@ An *AI-powered recommendation engine* that uses sales patterns, peer buying beha
 ## 🧱 System Architecture
 
 ### Data Flow
+![WhatsApp Image 2025-09-28 at 15 45 56_286c7830](https://github.com/user-attachments/assets/5536dcf6-1a22-4f7f-9ebc-db8ebdf2c3da)
+
 1. Retailer/Vendor logs in via frontend.  
 2. Request is sent to backend (API layer).  
 3. Backend fetches relevant data and sends it to ML engine.  
