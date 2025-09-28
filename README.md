@@ -151,40 +151,40 @@ Generate → Clean → Store (PostgreSQL) → Feed to ML Engine → Recommend
 ## 📂 Project Structure
 ```QWIPO/
 │
-├── Engine_2/                      # (Possibly backend or model engine directory)
+├── Engine_2/                     
 │
-├── node_modules/                  # Dependencies for the root (if any global setup)
+├── node_modules/                  # Dependencies for the root ( global setup)
 │
 ├── retailer-app/                  # Main frontend application
 │   │
-│   ├── node_modules/              # React/Vite dependencies
+│   ├── node_modules/             
 │   │
 │   ├── public/                    # Publicly accessible assets
-│   │   ├── images/                # Static images
-│   │   ├── demo.xlsx              # Example Excel file (likely for product data)
-│   │   └── vite.svg               # Default Vite icon
+│   │   ├── images/               
+│   │   ├── demo.xlsx             
+│   │   └── vite.svg              
 │   │
 │   ├── src/                       # Main source code folder
 │   │   │
 │   │   ├── assets/                # Icons, logos, or additional static assets
-│   │   ├── data/                  # JSON or local data (e.g., mock data, configs)
-│   │   ├── pages/                 # Main page components (e.g., Login, Dashboard)
+│   │   ├── data/                  # JSON  data (e.g., mock data, configs)
+│   │   ├── pages/                 # Main page components ( Login, Dashboard)
 │   │   │
-│   │   ├── App.css                # Global app styles
+│   │   ├── App.css               
 │   │   ├── App.tsx                # Root React component
 │   │   ├── index.css              # Base CSS (Tailwind imports, resets)
-│   │   ├── main.tsx               # Entry point for React (mounts App)
-│   │   └── recommendations.json   # Possibly a sample dataset or ML output file
+│   │   ├── main.tsx              
+│   │   └── recommendations.json  
 │   │
 │   ├── .gitignore                 # Files to exclude from Git
-│   ├── eslint.config.js           # ESLint configuration for code linting
+│   ├── eslint.config.js          
 │   ├── index.html                 # Main HTML file loaded by Vite
-│   ├── package.json               # Project dependencies and scripts
-│   ├── package-lock.json          # Exact dependency versions
+│   ├── package.json               
+│   ├── package-lock.json         
 │   ├── README.md                  # Project documentation
 │   ├── tailwind.config.js         # Tailwind CSS configuration
-│   ├── tsconfig.app.json          # TypeScript config for the app
-│   ├── tsconfig.node.json         # TypeScript config for Node-related files
+│   ├── tsconfig.app.json          
+│   ├── tsconfig.node.json       
 │   ├── tsconfig.json              # Root TypeScript configuration
 │   └── vite.config.ts             # Vite configuration file
 │
@@ -226,22 +226,23 @@ VITE_API_BASE=http://localhost:8000
 ```
 🧭 Usage Flow
 Open frontend → Login as Retailer or Vendor
-
 Retailer views personalized recommendations
-
 Vendor views product demand insights
-
 Export data as reports or CSV
 
 Visualize analytics with graphs and charts
 
 🧑‍🤝‍🧑 Team Contributions
 Member	Role	Contributions
-Sanjay Ragavendra S	Team Lead	Planned architecture, managed prototype integration, final documentation
-Mohana Prasanth S	Developer	Built ML recommendation module, data preprocessing
-Guru Prasana E S	Developer	Handled backend APIs, FastAPI integration
-Karthika V	Frontend Developer	Designed dashboards and UI interactions
-Kaviya R	Designer / Presenter	Created pitch deck, PPT, flowcharts, and documentation visuals
+Sanjay Ragavendra S	- Team Lead	Planned architecture, managed prototype integration, final documentation
+
+Mohana Prasanth S	- Developer	Built ML recommendation module, data preprocessing
+
+Guru Prasana E S	- Developer	Handled backend APIs, FastAPI integration
+
+Karthika V	- Frontend Developer	Designed dashboards and UI interactions
+
+Kaviya R	- Designer / Presenter	Created pitch deck, PPT, flowcharts, and documentation visuals
 
 🎥 Prototype Demo
 🖼 Add screenshots of dashboards and recommendation views here
@@ -249,12 +250,9 @@ Kaviya R	Designer / Presenter	Created pitch deck, PPT, flowcharts, and documenta
 
 📊 Deliverables
 Fully functional prototype (frontend + backend + ML engine)
-
 Documentation (README, PPT, flowcharts)
-
 Demo video and final pitch presentation
-
-Deployed application (local/cloud)
+Deployed application (cloud)
 
 📜 License
 MIT License
