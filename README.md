@@ -149,3 +149,44 @@ Generate → Clean → Store (PostgreSQL) → Feed to ML Engine → Recommend
 ---
 
 ## 📂 Project Structure
+QWIPO/
+│
+├── Engine_2/                     
+│
+├── node_modules/                  # Dependencies for the root (if any global setup)
+│
+├── retailer-app/                  # Main frontend application
+│   │
+│   ├── node_modules/              # React/Vite dependencies
+│   │
+│   ├── public/                    # Publicly accessible assets
+│   │   ├── images/               
+│   │   ├── demo.xlsx              
+│   │   └── vite.svg             
+│   │
+│   ├── src/                       # Main source code folder
+│   │   │
+│   │   ├── assets/               
+│   │   ├── data/                
+│   │   ├── pages/                
+│   │   │
+│   │   ├── App.css                # Global app styles
+│   │   ├── App.tsx                # Root React component
+│   │   ├── index.css              # Base CSS (Tailwind imports, resets)
+│   │   ├── main.tsx               # Entry point for React (mounts App)
+│   │   └── recommendations.json  
+│   │
+│   ├── .gitignore                
+│   ├── eslint.config.js           
+│   ├── index.html                 # Main HTML file loaded by Vite
+│   ├── package.json               # Project dependencies and scripts
+│   ├── package-lock.json          # Exact dependency versions
+│   ├── README.md                 
+│   ├── tailwind.config.js         
+│   ├── tsconfig.app.json         
+│   ├── tsconfig.node.json        
+│   ├── tsconfig.json              # Root TypeScript configuration
+│   └── vite.config.ts             # Vite configuration file
+│
+├── package.json                  
+└── package-lock.json              # Root dependency lock file
