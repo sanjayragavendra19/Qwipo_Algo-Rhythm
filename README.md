@@ -189,5 +189,75 @@ Generate → Clean → Store (PostgreSQL) → Feed to ML Engine → Recommend
 │   └── vite.config.ts             # Vite configuration file
 │
 ├── package.json                   # (Possibly for root workspace)
-└── package-lock.json              # Root dependency lock file```
+└── package-lock.json              # Root dependency lock file
+```
+## ⚙ Setup Instructions
 
+### 1. Clone Repository
+```git clone https://github.com/<your-username>/SmartReco.git
+cd SmartReco
+```
+2. Backend Setup (FastAPI)
+```
+cd server
+python -m venv .venv
+.venv\Scripts\activate  # Windows
+# or
+source .venv/bin/activate  # Linux/Mac
+
+pip install -r requirements.txt
+uvicorn app.main:app --reload
+```
+3. Frontend Setup (React)
+```
+cd client
+npm install
+npm run dev
+```
+4. Environment Variables
+Backend (.env)
+```
+DB_URL=postgresql://user:password@localhost:5432/recommendation_db
+HEADLESS=true
+```
+Frontend (.env)
+```
+VITE_API_BASE=http://localhost:8000
+```
+🧭 Usage Flow
+Open frontend → Login as Retailer or Vendor
+
+Retailer views personalized recommendations
+
+Vendor views product demand insights
+
+Export data as reports or CSV
+
+Visualize analytics with graphs and charts
+
+🧑‍🤝‍🧑 Team Contributions
+Member	Role	Contributions
+Sanjay Ragavendra S	Team Lead	Planned architecture, managed prototype integration, final documentation
+Mohana Prasanth S	Developer	Built ML recommendation module, data preprocessing
+Guru Prasana E S	Developer	Handled backend APIs, FastAPI integration
+Karthika V	Frontend Developer	Designed dashboards and UI interactions
+Kaviya R	Designer / Presenter	Created pitch deck, PPT, flowcharts, and documentation visuals
+
+🎥 Prototype Demo
+🖼 Add screenshots of dashboards and recommendation views here
+📹 Attach demo video (Google Drive / YouTube link)
+
+📊 Deliverables
+Fully functional prototype (frontend + backend + ML engine)
+
+Documentation (README, PPT, flowcharts)
+
+Demo video and final pitch presentation
+
+Deployed application (local/cloud)
+
+📜 License
+MIT License
+
+🔑 One-liner
+“SmartReco empowers retailers with AI-driven, explainable product recommendations — optimizing stock, enhancing profits, and driving smart retail growth through data intelligence.”
