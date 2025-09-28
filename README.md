@@ -1,4 +1,4 @@
-# Qwipo_Algo_Rhythm – Personalized Product Recommendation System for Retailers
+# Qwipo_Algo-Rhythm – Personalized Product Recommendation System for Retailers
 
 AI-driven system that enhances the retailer experience on B2B platforms by providing *personalized product recommendations, **demand forecasts, and **vendor insights* based on real and synthetic sales data.
 
@@ -194,7 +194,8 @@ Generate → Clean → Store (PostgreSQL) → Feed to ML Engine → Recommend
 ##  Setup Instructions
 
 ### 1. Clone Repository
-```git clone https://github.com/<your-username>/SmartReco.git
+```
+git clone https://github.com/<your-username>/Qwipo_Algo-Rhythm.git
 cd SmartReco
 ```
 2. Backend Setup (FastAPI)
@@ -233,6 +234,7 @@ Visualize analytics with graphs and charts
 
 🧑‍🤝‍🧑 Team Contributions
 Member	Role	Contributions
+```
 Sanjay Ragavendra S	- Team Lead	Planned architecture, managed prototype integration, final documentation
 
 Mohana Prasanth S	- Developer	Built ML recommendation module, data preprocessing
@@ -242,7 +244,7 @@ Guru Prasana E S	- Developer	Handled backend APIs, FastAPI integration
 Karthika V	- Frontend Developer	Designed dashboards and UI interactions
 
 Kaviya R	- Designer / Presenter	Created pitch deck, PPT, flowcharts, and documentation visuals
-
+```
 🎥 Prototype Demo
 
 
