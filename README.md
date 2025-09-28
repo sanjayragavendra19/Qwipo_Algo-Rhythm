@@ -151,7 +151,7 @@ Generate → Clean → Store (PostgreSQL) → Feed to ML Engine → Recommend
 ## 📂 Project Structure
 QWIPO/
 │
-├── Engine_2/                     
+├── Engine_2/                      # (Possibly backend or model engine directory)
 │
 ├── node_modules/                  # Dependencies for the root (if any global setup)
 │
@@ -160,33 +160,34 @@ QWIPO/
 │   ├── node_modules/              # React/Vite dependencies
 │   │
 │   ├── public/                    # Publicly accessible assets
-│   │   ├── images/               
-│   │   ├── demo.xlsx              
-│   │   └── vite.svg             
+│   │   ├── images/                # Static images
+│   │   ├── demo.xlsx              # Example Excel file (likely for product data)
+│   │   └── vite.svg               # Default Vite icon
 │   │
 │   ├── src/                       # Main source code folder
 │   │   │
-│   │   ├── assets/               
-│   │   ├── data/                
-│   │   ├── pages/                
+│   │   ├── assets/                # Icons, logos, or additional static assets
+│   │   ├── data/                  # JSON or local data (e.g., mock data, configs)
+│   │   ├── pages/                 # Main page components (e.g., Login, Dashboard)
 │   │   │
 │   │   ├── App.css                # Global app styles
 │   │   ├── App.tsx                # Root React component
 │   │   ├── index.css              # Base CSS (Tailwind imports, resets)
 │   │   ├── main.tsx               # Entry point for React (mounts App)
-│   │   └── recommendations.json  
+│   │   └── recommendations.json   # Possibly a sample dataset or ML output file
 │   │
-│   ├── .gitignore                
-│   ├── eslint.config.js           
+│   ├── .gitignore                 # Files to exclude from Git
+│   ├── eslint.config.js           # ESLint configuration for code linting
 │   ├── index.html                 # Main HTML file loaded by Vite
 │   ├── package.json               # Project dependencies and scripts
 │   ├── package-lock.json          # Exact dependency versions
-│   ├── README.md                 
-│   ├── tailwind.config.js         
-│   ├── tsconfig.app.json         
-│   ├── tsconfig.node.json        
+│   ├── README.md                  # Project documentation
+│   ├── tailwind.config.js         # Tailwind CSS configuration
+│   ├── tsconfig.app.json          # TypeScript config for the app
+│   ├── tsconfig.node.json         # TypeScript config for Node-related files
 │   ├── tsconfig.json              # Root TypeScript configuration
 │   └── vite.config.ts             # Vite configuration file
 │
-├── package.json                  
+├── package.json                   # (Possibly for root workspace)
 └── package-lock.json              # Root dependency lock file
+
