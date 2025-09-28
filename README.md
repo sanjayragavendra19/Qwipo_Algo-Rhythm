@@ -245,8 +245,7 @@ Karthika V	- Frontend Developer	Designed dashboards and UI interactions
 Kaviya R	- Designer / Presenter	Created pitch deck, PPT, flowcharts, and documentation visuals
 
 🎥 Prototype Demo
-🖼 Add screenshots of dashboards and recommendation views here
-📹 Attach demo video (Google Drive / YouTube link)
+
 
 📊 Deliverables
 Fully functional prototype (frontend + backend + ML engine)
